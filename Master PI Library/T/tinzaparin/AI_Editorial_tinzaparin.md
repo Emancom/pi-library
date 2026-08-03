@@ -1,0 +1,99 @@
+# Editorial Product Information: Levocarnitine
+
+## Editorial Note
+*   This editorial synthesis was developed using official Product Information from the following jurisdiction: **United States (FDA)**.
+*   **Purpose:** This document provides a harmonised editorial overview for healthcare professionals, synthesising regulatory data into a single clinical reference.
+*   **Prescriber Notice:** This is an editorial synthesis and is not a substitute for the official Product Information required for prescribing in a specific jurisdiction. Clinicians should consult their local regulatory authority's approved labelling for definitive guidance.
+
+## 1. Product Identification
+*   **Active Ingredient:** Levocarnitine (INN); (R)-3-Carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium, inner salt. 
+*   **Chemical Class:** Carrier molecule/amino acid derivative.
+*   **Brand Names:** Levocarnitine Injection, USP [US].
+*   **ATC Code:** A16AA01.
+*   **Dosage Form(s) and Strength(s):** Sterile solution for injection, 1 g per 5 mL (200 mg/mL) single-dose vial [US].
+*   **Route(s) of Administration:** Intravenous use only.
+*   **Manufacturer/Sponsor:** Baxter Healthcare Corporation [US].
+
+## 2. Approved Indications
+*   **Secondary Carnitine Deficiency (Inborn Errors of Metabolism):** Indicated for the acute and chronic management of patients with metabolic defects resulting in secondary carnitine deficiency [US].
+*   **End-Stage Renal Disease (ESRD):** Indicated for the prevention and treatment of carnitine deficiency in patients with ESRD undergoing hemodialysis [US].
+
+## 3. Dosage and Administration
+### General Dosing (Adult and Pediatric)
+*   **Metabolic Disorders:** The recommended dose is 50 mg/kg. This may be administered as a slow bolus injection (2 to 3 minutes) or via infusion. 
+    *   *Acute Crisis:* A loading dose is often administered, followed by equivalent doses every 3 to 4 hours (and no less frequently than every 6 hours) over the subsequent 24 hours. 
+    *   *Maintenance:* Subsequent daily doses are typically 50 mg/kg, though higher doses up to 300 mg/kg have been utilised based on clinical requirement [US].
+*   **ESRD on Hemodialysis:** The recommended starting dose is 10 mg/kg to 20 mg/kg dry body weight.
+    *   *Administration:* Administered as a slow bolus injection (2 to 3 minutes) into the venous return line following each dialysis session.
+    *   *Dose Adjustment:* Adjustments should be guided by pre-dialysis (trough) plasma levocarnitine levels. Downward titration (e.g., to 5 mg/kg) may be initiated as early as the third or fourth week of therapy [US].
+
+### Administration Instructions
+*   Parenteral products must be inspected visually for particulate matter or discolouration before administration.
+*   **Compatibility:** Stable for 24 hours at room temperature (25°C) in PVC bags when mixed with Sodium Chloride 0.9% or Lactated Ringer’s at concentrations between 0.5 mg/mL and 8.0 mg/mL [US].
+
+## 4. Contraindications
+*   None known at the time of publication [US].
+
+## 5. Warnings and Precautions
+*   **Hypersensitivity Reactions:** Serious reactions, including anaphylaxis, laryngeal edema, and bronchospasm, have been reported. These occurred primarily in ESRD patients, sometimes within minutes of administration. If a severe reaction occurs, the drug must be discontinued immediately and appropriate medical management initiated [US].
+*   **Neurologic Reactions (Seizures):** Seizures have been reported in patients both with and without pre-existing seizure activity. In patients with a known seizure history, an increase in the frequency or severity of seizures has been observed [US].
+*   **Gastrointestinal Precautions:** While this document covers the IV formulation, it is noted that high doses of oral levocarnitine in patients with severely compromised renal function may lead to the accumulation of toxic metabolites (trimethylamine [TMA] and trimethylamine-N-oxide [TMAO]) normally excreted in urine [US].
+
+### Monitoring Requirements
+*   **Plasma Levels:** Pre-dialysis (trough) plasma free carnitine levels should be monitored. The recommended range is between 35 and 60 µmol/L [US].
+*   **General Monitoring:** Periodic blood chemistries, vital signs, and overall clinical assessment are recommended [US].
+
+## 6. Adverse Effects
+Adverse event reporting is complicated by the underlying pathology of ESRD and metabolic disorders.
+
+### Common to Very Common (>5%)
+*   **Body as a Whole:** Injection site reaction (33–38%), pain (21–35%), chest pain (6–15%), headache (3–37%), infection (10–24%), flu syndrome (15–29%), asthenia (8–12%), abdominal pain (5–21%).
+*   **Cardiovascular:** Hypertension (18–21%), hypotension (3–19%), tachycardia (5–9%).
+*   **Digestive:** Diarrhea (9–35%), vomiting (9–21%), nausea (5–12%).
+*   **Respiratory:** Pharyngitis (15–27%), cough increase (10–18%), dyspnea (3–11%), rhinitis (6–11%).
+*   **Metabolic:** Hypercalcemia (6–15%), hypervolemia (3–12%).
+*   **Nervous System:** Dizziness (10–18%), paresthesia (3–12%).
+
+### Serious and Other Adverse Effects
+*   **Serious:** Anaphylaxis, bronchospasm, seizures [US].
+*   **Other:** Body odor, gastritis, and taste perversion [US].
+
+## 7. Drug Interactions
+*   **Warfarin:** Reports indicate an increase in the International Normalized Ratio (INR) when levocarnitine is co-administered with warfarin.
+    *   *Management:* Monitor INR levels following the initiation of levocarnitine or after dose adjustments in patients on warfarin therapy [US].
+
+## 8. Use in Pregnancy and Breastfeeding
+*   **Pregnancy:** 
+    *   *Category:* Not explicitly assigned a letter category in the current source, but animal studies in rats and rabbits at 3.8 times the human dose (based on surface area) showed no evidence of impaired fertility or fetal harm [US]. 
+    *   *Recommendation:* Use during pregnancy only if clearly needed, as animal studies are not always predictive of human response [US].
+*   **Breastfeeding:** Not specifically studied in humans. Studies in dairy cows show increased milk carnitine concentrations following exogenous administration. The benefits of maternal supplementation must be weighed against potential risks of excess carnitine intake in the infant [US].
+*   **Fertility:** No evidence of impaired fertility in animal studies [US].
+
+## 9. Use in Special Populations
+*   **Paediatric Use:** Dosing recommendations (50 mg/kg for metabolic disorders) apply to pediatric patients. Safety and efficacy for other uses are not detailed beyond these parameters [US].
+*   **Elderly Use:** Not specified in available sources.
+*   **Renal Impairment:** Extensively used and indicated in ESRD patients on hemodialysis. Dosing adjustments (10–20 mg/kg post-dialysis) are specific to this population to account for dialytic losses [US].
+*   **Hepatic Impairment:** Not specified in available sources.
+
+## 10. Pharmacology
+### Mechanism of Action
+Levocarnitine is a naturally occurring carrier molecule essential for mammalian energy metabolism. it facilitates the transport of long-chain fatty acids across the inner mitochondrial membrane, providing substrate for oxidation and subsequent ATP production. It also promotes the excretion of excess organic or fatty acids by forming acylcarnitine esters, which are rapidly eliminated [US].
+
+### Pharmacokinetics
+*   **Distribution:** Not bound to plasma proteins or albumin. Mean distribution half-life is 0.585 hours [US].
+*   **Metabolism:** Major metabolites include trimethylamine N-oxide (primarily in urine) and γ-butyrobetaine (primarily in feces) [US].
+*   **Elimination:** Following a single IV bolus, approximately 76% of the dose is excreted in the urine within 24 hours. The mean apparent terminal elimination half-life is 17.4 hours [US].
+
+## 11. Clinical Trials
+*   **ESRD Studies:** In a 9-week study of 12 ESRD patients, 20 mg/kg levocarnitine administered three times weekly post-dialysis increased mean trough plasma carnitine levels from 21.3 ± 7.7 µmol/L at baseline to 190 ± 55 µmol/L at 8 weeks. 
+*   **Dose-Ranging Study:** Studies comparing 10, 20, and 40 mg/kg doses showed dose-proportional increases in trough carnitine concentrations over 12 and 24 weeks. While carnitine levels increased, the impact on specific clinical outcomes in the ESRD population has not been definitively determined [US].
+
+## 12. Storage Conditions
+*   **Temperature:** Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [US].
+*   **Handling:** Protect from freezing and excessive heat. Vials are single-dose and contain no preservative; discard any unused portion [US].
+
+## 13. Regulatory Information by Jurisdiction
+*   **United States:** Rx-only (Prescription only).
+
+## 14. References
+1.  **United States (FDA):** Levocarnitine Injection, solution. Baxter Healthcare Corporation. Revised 07/2026. (Provided as: "Product Information — tinzaparin" in metadata, but document reflects Levocarnitine).
