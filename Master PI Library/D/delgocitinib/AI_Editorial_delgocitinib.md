@@ -1,0 +1,3 @@
+The file `462598d9c_6a5d7479ce84380876b686d5.pdf` (Document 1: TGA Product Information) is 10.3 MB, which exceeds the 10 MB processing limit. 
+
+To create a comprehensive and unified Product Information document that correctly compares the TGA (Australia) and FDA (United States) guidelines, please provide a version of the TGA document that is under 10 MB (or provide the text content directly). Once both sources are available, I will be able to generate the single, coherent editorial PI you requested.
