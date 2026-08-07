@@ -1,0 +1,2121 @@
+drug_name,letter,has_ai_editorial,source_document_count,agencies
+"5-Aminolevulinic acid",#,yes,2,PMDA;TGA
+"Abacavir",A,yes,6,EMA;FDA;Other;PMDA
+"abacavir",A,no,2,FDA;TGA
+"abacavir + lamivudine",A,yes,1,TGA
+"Abacavir with lamivudine",A,yes,5,EMA;Other;PMDA
+"abametapir",A,yes,2,FDA
+"Abatacept",A,yes,7,EMA;FDA;Other;PMDA;TGA
+"abciximab",A,no,2,Other
+"Abemaciclib",A,yes,7,EMA;FDA;Other;PMDA;TGA
+"Abiraterone",A,yes,7,EMA;FDA;Other;PMDA;TGA
+"abiraterone + methylprednisolone",A,yes,1,TGA
+"abiraterone + prednisolone",A,yes,1,TGA
+"abiraterone acetate",A,yes,3,FDA;TGA
+"Abiraterone and methylprednisolone",A,yes,3,Other;TGA
+"abobotulinumtoxinA",A,no,4,Other;PMDA
+"abrocitinib",A,yes,6,FDA;Other;PMDA;TGA
+"absinthium + arsenic + allium + amoeba + ammonium + dibasic + activated + cinchona + veratrum",A,yes,1,FDA
+"Acalabrutinib",A,yes,8,EMA;FDA;Other;PMDA;TGA
+"Acamprosate",A,yes,4,FDA;Other;PMDA;TGA
+"acamprosate calcium",A,yes,1,TGA
+"Acarbose",A,yes,6,FDA;Other;PMDA;TGA
+"acebutolol",A,yes,3,FDA;Other;PMDA
+"acenocoumarol",A,no,3,Other;PMDA
+"acetaminophen",A,yes,4,Other;PMDA
+"acetaminophen + chlorpheniramine + dextromethorphan",A,yes,1,FDA
+"acetaminophen + dextromethorphan",A,yes,1,FDA
+"Acetazolamide",A,yes,5,FDA;Other;PMDA;TGA
+"Acetic acid",A,yes,2,FDA;Other
+"acetohexamide",A,no,1,PMDA
+"acetohydroxamic acid",A,yes,1,FDA
+"acetylcholine",A,yes,3,FDA;PMDA;TGA
+"acetylcholine + acetaldehyde + apiol + ascorbic + butylated + caffeic + candida + chlorogenic + cinnamic + coniferyl + coumarin + dopamine + estrogen + gamma-aminobutyric + gallic + histamine + indole + levodopa + malvin + mannan + melatonin + menadione + norepinephrine + octopamine + phenylalanine + phenyl + phlorizin + piperine + progesterone + pyrrole + quercetin + rutin + salsolinol + serotonin + taurine + testosterone + tryptophan",A,yes,1,FDA
+"Acetylcysteine",A,yes,4,Other;PMDA;TGA
+"Acetylcysteine (inhaled)",A,no,2,Other;PMDA
+"achillea millefolium",A,yes,1,FDA
+"Aciclovir",A,yes,3,Other;PMDA;TGA
+"Aciclovir (eye)",A,no,1,Other
+"Acitretin",A,yes,2,Other;TGA
+"Aclidinium",A,yes,2,PMDA;TGA
+"Aclidinium with formoterol",A,no,1,PMDA
+"acrivastine + pseudoephedrine",A,yes,1,FDA
+"activated + sorbitol",A,yes,1,TGA
+"Activated charcoal",A,yes,1,TGA
+"acyclovir",A,yes,1,FDA
+"adagrasib",A,yes,1,FDA
+"Adagrasib",A,no,1,PMDA
+"Adalimumab",A,yes,5,Other;PMDA;TGA
+"adalimumab",A,no,3,FDA;TGA
+"Adapalene",A,yes,1,TGA
+"Adefovir",A,yes,1,TGA
+"Adenosine",A,yes,1,TGA
+"adenosine + selenicereus + convallaria + pork + magnesium + potassium + thyroid + ubidecarenone + germanium + strophanthus + adonis + digitalis",A,yes,1,FDA
+"adeps + bryonia + calcarea + choline + dna + dopamine + ferrum + folic + insulin + leptin + magnesium + l-methionine + methylcobalamin + proteus + rhus + riboflavin + ruta + sucrose + allylthiourea + zinc",A,yes,1,FDA
+"ado-trastuzumab emtansine",A,yes,3,FDA;Other;PMDA
+"adrenaline (epinephrine)",A,yes,2,TGA
+"afamelanotide",A,yes,1,FDA
+"Afatinib",A,yes,5,Other;PMDA;TGA
+"Aflibercept",A,yes,5,Other;PMDA;TGA
+"Agalsidase",A,yes,1,TGA
+"agalsidase alfa",A,yes,1,TGA
+"Agalsidase alfa",A,no,1,PMDA
+"agalsidase beta",A,yes,2,FDA;TGA
+"Agalsidase beta",A,no,1,PMDA
+"Agomelatine",A,yes,1,TGA
+"alanine + arginine + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + taurine + threonine + tryptophan + tyrosine + valine",A,yes,3,TGA
+"alanine + arginine + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + sodium + potassium + calcium + magnesium + sodium + zinc + glucose + soya + olive + medium + fish",A,yes,1,TGA
+"Albendazole",A,yes,1,TGA
+"albumin",A,yes,1,FDA
+"albuterol",A,yes,1,FDA
+"alcaftadine",A,yes,1,FDA
+"alclometasone",A,yes,1,FDA
+"aldesleukin + barium + agnus + chimaphila + clematis + conium + delphinium + digitalis + ferric + interferon + interleukin-10 + melatonin + saw + selenium + sus + transforming + thuja + zinc",A,yes,1,FDA
+"Alectinib",A,yes,4,Other;PMDA;TGA
+"Alendronate",A,yes,2,Other;PMDA
+"alendronate + colecalciferol",A,yes,2,TGA
+"alfacalcidol",A,no,1,PMDA
+"Alfentanil",A,yes,1,TGA
+"Alfuzosin",A,yes,2,Other;TGA
+"Alglucosidase alfa",A,yes,1,TGA
+"alirocumab",A,yes,2,FDA;PMDA
+"aliskiren",A,yes,2,FDA;Other
+"alitretinoin",A,yes,1,FDA
+"Allopurinol",A,yes,3,Other;PMDA;TGA
+"allopurinol",A,no,2,FDA;TGA
+"almotriptan",A,yes,1,FDA
+"aloe + semecarpus + silver + activated + matricaria + anamirta + citrullus + cupric + ferrosoferric + iodine + ipecac + strychnos + podophyllum + robinia + sepia + potentilla + veratrum",A,yes,1,FDA
+"Alogliptin",A,yes,3,Other;PMDA;TGA
+"alosetron",A,yes,1,FDA
+"alpelisib",A,yes,2,FDA;TGA
+"alpha-1-proteinase inhibitor human",A,yes,1,FDA
+"Alpha1-proteinase inhibitor",A,yes,1,FDA
+"Alprazolam",A,yes,3,Other;PMDA;TGA
+"alprazolam",A,no,1,FDA
+"Alprostadil",A,yes,1,TGA
+"Alteplase",A,yes,2,PMDA;TGA
+"aluminum + dimethicone + magnesium",A,yes,1,FDA
+"aluminum + magnesium",A,yes,1,FDA
+"aluminum acetate",A,yes,1,FDA
+"aluminum sesquichlorohydrate",A,yes,1,FDA
+"alvimopan",A,yes,1,FDA
+"Amantadine",A,yes,2,PMDA;TGA
+"Ambrisentan",A,yes,2,PMDA;TGA
+"ambroxol",A,yes,1,FDA
+"amcinonide",A,yes,1,FDA
+"Amifampridine",A,yes,1,TGA
+"amifostine",A,yes,1,FDA
+"Amikacin",A,yes,1,TGA
+"amiloride",A,yes,1,FDA
+"amiloride + hydrochlorothiazide",A,yes,1,TGA
+"aminocaproic acid",A,yes,1,FDA
+"aminolevulinic acid",A,yes,2,FDA;TGA
+"Aminophylline",A,yes,1,TGA
+"aminophylline",A,no,1,TGA
+"Amiodarone",A,yes,1,TGA
+"Amisulpride",A,yes,1,TGA
+"Amitriptyline",A,yes,1,TGA
+"Amivantamab",A,yes,1,TGA
+"amlodipine + benazepril",A,yes,1,FDA
+"amlodipine + valsartan",A,yes,1,TGA
+"ammonium lactate",A,yes,1,FDA
+"amoxapine",A,yes,1,FDA
+"amoxicillin + clavulanic",A,yes,1,TGA
+"amphetamine",A,yes,1,FDA
+"Amphotericin B",A,yes,1,TGA
+"Ampicillin",A,yes,1,TGA
+"amyl nitrite",A,yes,1,FDA
+"Anagrelide",A,yes,1,TGA
+"Anakinra",A,yes,1,TGA
+"Anastrozole",A,yes,1,TGA
+"Andexanet alfa",A,yes,1,FDA
+"angiotensin II",A,yes,1,FDA
+"Anidulafungin",A,yes,1,TGA
+"Anifrolumab",A,yes,1,TGA
+"ansuvimab",A,yes,1,FDA
+"anthrax vaccine",A,yes,1,FDA
+"anti-inhibitor coagulant complex",A,yes,1,FDA
+"anti-thymocyte globulin (rabbit)",A,yes,1,FDA
+"antihemophilic factor",A,yes,1,FDA
+"antihemophilic factor (recombinant)",A,yes,1,FDA
+"antithrombin III",A,yes,2,FDA;TGA
+"antithymocyte globulin (rabbit)",A,yes,1,TGA
+"antivenin",A,yes,1,FDA
+"Apalutamide",A,yes,1,TGA
+"apis + antimonium + ascorbic + bovista + carbolicum + chamomilla + cortisone + ginkgo + hepar + histaminum + natrum + quercetin + rhus + scutellaria + stomach + urtica",A,yes,1,FDA
+"apis + antimony + ascorbic + lycoperdon + phenol + matricaria + cortisone + ginkgo + pork + histamine + sodium + quercetin + toxicodendron + scutellaria + sus + urtica",A,yes,1,FDA
+"Apixaban",A,yes,1,TGA
+"Apomorphine",A,yes,1,TGA
+"Apraclonidine",A,yes,1,TGA
+"Apremilast",A,yes,1,TGA
+"Aprepitant",A,yes,1,TGA
+"aprotinin + factor + fibrinogen + thrombin + calcium",A,yes,3,TGA
+"arformoterol",A,yes,1,FDA
+"Argatroban",A,yes,1,FDA
+"arginine + acetyl-l-carnitine + ornithine + human",A,yes,2,FDA
+"Argipressin",A,yes,1,TGA
+"Aripiprazole",A,yes,1,TGA
+"aripiprazole lauroxil",A,yes,1,FDA
+"Armodafinil",A,yes,1,TGA
+"arsenic + calcium + croton + graphite + centella + lycopodium + sodium + sulfur + eggshell + whey",A,yes,1,FDA
+"Arsenic trioxide",A,yes,1,TGA
+"arsenicum + lycopodium + pulsatilla + salix + acer + acer + populus + pinus + ligustrum + quercus + betula + liquidambar + fraxinus + morus",A,yes,1,FDA
+"artemisia + pancrelipase + angelica + anisum + ascorbic + citrullus + sus + sus + sus + gentiana + pork + pancrelipase + melatonin + niacin + strychnos + sus + sus + serotonin + thiamine + tryptophan + trypsin",A,yes,1,FDA
+"articaine + epinephrine",A,yes,2,FDA;TGA
+"Asciminib",A,yes,1,TGA
+"ascorbic + biotin + cholecalciferol + cyanocobalamin + folic + niacinamide + pantothenic + pyridoxine + vitamin + riboflavin + thiamine + alpha-tocopherol + calcium",A,yes,1,FDA
+"ascorbic + calcium + iron + cholecalciferol + alpha-tocopherol + thiamine + riboflavin + niacinamide + pyridoxine + folic + iodine + zinc + copper + docusate + docosahexaenoic + icosapent",A,yes,1,FDA
+"ascorbic + cholecalciferol + dl-alpha-tocopherol + pyridoxine + folic + levomefolate + cyanocobalamin + biotin + calcium + ferrous + iron + potassium + magnesium + doconexent + lowbush",A,yes,1,FDA
+"ascorbic + cholecalciferol + thiamine + pyridoxal + folic + methylcobalamin + nadh + coenzyme",A,yes,1,FDA
+"ascorbic + cholecalciferol + thiamine + pyridoxine + folic + methylcobalamin + riboflavin + niacinamide + calcium + ferrous + potassium",A,yes,1,FDA
+"ascorbic + ferrous + iron + lacticaseibacillus",A,yes,1,FDA
+"ascorbic + retinyl + cholecalciferol + thiamine + riboflavin-5-phosphate + pyridoxine + niacinamide + dexpanthenol + alpha-tocopherol + phytonadione + folic + biotin + cyanocobalamin",A,yes,1,FDA
+"ascorbic + retinyl + cholecalciferol + thiamine + riboflavin-5-phosphate + pyridoxine + nicotinamide + dexpanthenol + tocopheryl + phytonadione + folic + biotin + cyanocobalamin",A,yes,1,FDA
+"ascorbic + thiamine + riboflavin + niacinamide + pyridoxine + folic + methylcobalamin + biotin + pantothenic",A,yes,2,FDA
+"Asenapine",A,yes,1,TGA
+"Asfotase alfa",A,yes,1,TGA
+"asparaginase",A,yes,1,FDA
+"aspirin + omeprazole",A,yes,1,FDA
+"Atazanavir",A,yes,1,TGA
+"Atenolol",A,yes,1,TGA
+"Atezolizumab",A,yes,1,TGA
+"atidarsagene autotemcel",A,yes,1,FDA
+"Atomoxetine",A,yes,1,TGA
+"Atorvastatin",A,yes,1,TGA
+"Atovaquone",A,yes,1,TGA
+"atovaquone + proguanil",A,yes,2,FDA;TGA
+"Atracurium",A,yes,1,TGA
+"atropa + berberis + milk + chelidonium + citrullus + dioscorea + goldenseal + lycopodium + sodium + strychnos + phosphorus + anemone + veratrum",A,yes,1,FDA
+"atropa + cupric + drosera + grindelia + ipecac + lobelia + naphthalene + eriodictyon",A,yes,1,FDA
+"Atropine",A,yes,1,TGA
+"Auranofin",A,yes,1,FDA
+"Avacopan",A,yes,1,TGA
+"Avalglucosidase alfa",A,yes,1,TGA
+"Avanafil",A,yes,1,TGA
+"Avatrombopag",A,yes,1,TGA
+"Avelumab",A,yes,1,TGA
+"avena + chamomile + helleborus + strychnos + canakinumab + melatonin + melissa + sus + pulsatilla + serotonin + valerian",A,yes,1,FDA
+"avilamycin",A,yes,1,FDA
+"axicabtagene ciloleucel",A,yes,4,FDA;TGA
+"Axitinib",A,yes,1,TGA
+"Azacitidine",A,yes,1,TGA
+"Azathioprine",A,yes,1,TGA
+"Azelaic acid",A,yes,1,FDA
+"azilsartan",A,yes,1,FDA
+"Azithromycin",A,yes,1,TGA
+"azithromycin",A,no,2,FDA;TGA
+"Aztreonam",A,yes,1,TGA
+"aztreonam + avibactam",A,yes,1,FDA
+"bacillus calmette-guerin",B,yes,1,FDA
+"bacillus calmette-guerin (tice strain)",B,yes,1,FDA
+"bacitracin",B,yes,1,FDA
+"bacitracin + neomycin + polymyxin + pramoxine",B,yes,2,FDA
+"Baclofen",B,yes,1,TGA
+"Baloxavir",B,yes,1,TGA
+"baloxavir marboxil",B,yes,2,FDA;TGA
+"balsalazide",B,yes,2,FDA;TGA
+"baptisia tinctoria",B,yes,1,FDA
+"Baricitinib",B,yes,6,Other;PMDA;TGA
+"baryta + baryta + belladonna + calcarea + conium + helleborus + iodine + juniperus + kali + lachesis + sus + natrum + rumex + scrophularia + silicea + xanthoxylum",B,yes,1,FDA
+"Basiliximab",B,yes,6,Other;PMDA;TGA
+"bazedoxifene",B,no,5,Other;PMDA
+"BCG",B,no,2,Other;PMDA
+"BCG vaccine",B,no,2,Other;PMDA
+"becaplermin",B,yes,1,FDA
+"Beclometasone (inhaled)",B,no,1,PMDA
+"Beclometasone (intranasal)",B,no,1,PMDA
+"beclometasone dipropionate",B,yes,1,TGA
+"Beclometasone with formoterol",B,no,4,Other;PMDA
+"Beclometasone with formoterol and glycopyrronium",B,no,1,PMDA
+"beclomethasone dipropionate",B,yes,2,FDA
+"bedaquiline",B,yes,6,FDA;Other;PMDA
+"belantamab mafodotin",B,yes,4,FDA;Other;PMDA;TGA
+"belatacept",B,yes,1,FDA
+"Belimumab",B,yes,1,TGA
+"belinostat",B,yes,1,FDA
+"Belzutifan",B,yes,1,TGA
+"belzutifan",B,no,2,FDA;TGA
+"bempedoic + ezetimibe",B,yes,1,FDA
+"Bendamustine",B,yes,1,TGA
+"Benralizumab",B,yes,1,TGA
+"Benzathine benzylpenicillin",B,yes,1,TGA
+"Benzatropine",B,yes,1,TGA
+"benzocaine + menthol",B,yes,1,FDA
+"benzocaine + resorcinol",B,yes,1,FDA
+"benzonatate",B,yes,1,FDA
+"benzphetamine",B,yes,1,FDA
+"Benzylpenicillin",B,yes,1,TGA
+"bepotastine",B,yes,1,FDA
+"Beractant",B,yes,1,TGA
+"berberis + bryonia + phenol + carduus + chelidonium + juniperus + lycopodium + sodium + dibasic + heptahydrate + sodium + strychnos + phosphorus + lactic + taraxacum + viscum + yucca",B,yes,1,FDA
+"berotralstat",B,yes,1,FDA
+"besifloxacin",B,yes,1,FDA
+"beta-carotene + ascorbic + cholecalciferol + alpha-tocopherol + thiamine + riboflavin + niacinamide + pyridoxine + folic + cyanocobalamin + ferrous",B,yes,2,FDA
+"beta-carotene + ascorbic + cholecalciferol + alpha-tocopherol + thiamine + riboflavin + niacinamide + pyridoxine + folic + cyanocobalamin + pantothenic + iron + magnesium + zinc + copper",B,yes,1,FDA
+"beta-carotene + ascorbic + sodium + cholecalciferol + alpha-tocopherol + thiamine + riboflavin + niacinamide + pyridoxine + folic + cyanocobalamin + ferrous",B,yes,3,FDA
+"Betahistine",B,yes,1,TGA
+"Betaine",B,yes,1,TGA
+"betaxolol",B,yes,1,FDA
+"Bethanechol",B,yes,1,TGA
+"betibeglogene autotemcel",B,yes,1,FDA
+"Bevacizumab",B,yes,1,TGA
+"bevacizumab",B,no,1,FDA
+"bexarotene",B,yes,1,FDA
+"bezlotoxumab",B,yes,2,FDA
+"Bicalutamide",B,yes,1,TGA
+"bictegravir + emtricitabine + tenofovir",B,yes,4,FDA;TGA
+"Bilastine",B,yes,1,TGA
+"Bimatoprost",B,yes,1,TGA
+"Bimekizumab",B,yes,1,TGA
+"Binimetinib",B,yes,1,TGA
+"Bisacodyl",B,yes,1,TGA
+"bismuth + metronidazole + tetracycline",B,yes,2,FDA
+"bismuth subsalicylate",B,yes,1,FDA
+"Bisoprolol",B,yes,1,TGA
+"Bivalirudin",B,yes,1,TGA
+"black + taipan + death + tiger + brown",B,yes,1,TGA
+"black + vitex + pyridoxine + riboflavin + cholecalciferol + cyanocobalamin",B,yes,1,FDA
+"Black snake antivenom",B,yes,1,TGA
+"Bleomycin",B,yes,1,TGA
+"Blinatumomab",B,yes,1,TGA
+"Bortezomib",B,yes,1,TGA
+"Bosentan",B,yes,1,TGA
+"bosutinib",B,yes,1,FDA
+"Box jellyfish antivenom",B,yes,1,TGA
+"bremelanotide",B,yes,1,FDA
+"Brentuximab vedotin",B,yes,1,TGA
+"Brexpiprazole",B,yes,1,TGA
+"brexucabtagene autoleucel",B,yes,2,FDA;TGA
+"Brigatinib",B,yes,1,TGA
+"brinzolamide + timolol",B,yes,1,TGA
+"Brivaracetam",B,yes,1,TGA
+"Brolucizumab",B,yes,1,TGA
+"Bromazepam",B,yes,1,TGA
+"bromfenac",B,yes,1,FDA
+"Bromhexine",B,yes,1,TGA
+"Bromocriptine",B,yes,1,TGA
+"brompheniramine + pseudoephedrine + dextromethorphan",B,yes,1,FDA
+"Brown snake antivenom",B,yes,1,TGA
+"budesonide + formoterol",B,yes,2,TGA
+"budesonide + glycopyrronium + formoterol",B,yes,1,TGA
+"Bulevirtide",B,yes,1,TGA
+"Bumetanide",B,yes,1,TGA
+"Bupivacaine",B,yes,1,TGA
+"Buprenorphine",B,yes,1,TGA
+"buprenorphine + naloxone",B,yes,1,FDA
+"bupropion",B,yes,1,FDA
+"bupropion hydrochloride",B,yes,1,TGA
+"burosumab",B,yes,2,FDA;TGA
+"Buspirone",B,yes,1,TGA
+"Busulfan",B,yes,1,TGA
+"butenafine",B,yes,1,FDA
+"butoconazole",B,yes,1,FDA
+"butorphanol",B,yes,1,FDA
+"C1 esterase inhibitor",C,no,3,Other;PMDA
+"Cabazitaxel",C,yes,4,Other;PMDA;TGA
+"Cabergoline",C,yes,4,Other;PMDA;TGA
+"Cabotegravir",C,yes,4,Other;PMDA;TGA
+"cabotegravir + rilpivirine",C,yes,1,TGA
+"Cabotegravir and rilpivirine",C,yes,4,Other;PMDA;TGA
+"Cabozantinib",C,yes,4,Other;PMDA;TGA
+"Caffeine",C,yes,1,TGA
+"calaspargase pegol",C,yes,1,FDA
+"Calcifediol",C,yes,1,TGA
+"calcipotriene",C,yes,1,FDA
+"calcipotriol + betamethasone",C,yes,1,TGA
+"Calcitonin salmon",C,yes,1,TGA
+"Calcitriol",C,yes,1,TGA
+"calcium + cholecalciferol + magnesium + boron + folic + levomefolate + pyridoxine + cyanocobalamin + biotin + blueberry",C,yes,1,FDA
+"calcium + glucose + magnesium + potassium + sodium + sodium",C,yes,2,TGA
+"calcium + magnesium + dextrose + lactic + sodium + sodium + potassium + sodium",C,yes,1,FDA
+"calcium + magnesium + potassium + sodium",C,yes,1,FDA
+"calcium acetate",C,yes,1,FDA
+"calcium polycarbophil",C,yes,1,FDA
+"canagliflozin",C,yes,1,FDA
+"canakinumab",C,yes,1,TGA
+"Candesartan",C,yes,1,TGA
+"candida albicans skin test antigen",C,yes,1,FDA
+"cangrelor",C,yes,1,FDA
+"Cannabidiol",C,yes,1,TGA
+"cantharidin",C,yes,1,FDA
+"Capecitabine",C,yes,1,TGA
+"capecitabine",C,no,1,FDA
+"Capivasertib",C,yes,1,TGA
+"capmatinib",C,yes,1,FDA
+"capsaicin",C,yes,1,FDA
+"capsicum oleoresin",C,yes,1,FDA
+"Captopril",C,yes,1,TGA
+"carbachol",C,yes,1,TGA
+"carbachol + brimonidine",C,yes,1,FDA
+"Carbamazepine",C,yes,1,TGA
+"Carbamide peroxide",C,yes,1,FDA
+"Carbetocin",C,yes,1,TGA
+"carbidopa + levodopa",C,yes,1,FDA
+"carbidopa and levodopa",C,yes,2,FDA;TGA
+"Carbimazole",C,yes,1,TGA
+"carbinoxamine",C,yes,1,FDA
+"Carboplatin",C,yes,1,TGA
+"Carboprost",C,yes,1,TGA
+"carboxymethylcellulose + glycerin + polysorbate",C,yes,1,FDA
+"carduus + ceanothus + chelidonium + chionanthus + citrullus + hepar + veronicastrum + sodium + strychnos + phosphorus + quassia + taraxacum + teucrium",C,yes,1,FDA
+"Carfilzomib",C,yes,1,TGA
+"Carglumic acid",C,yes,1,TGA
+"Cariprazine",C,yes,1,TGA
+"carisoprodol",C,yes,1,FDA
+"Carmustine",C,yes,1,TGA
+"carmustine",C,no,1,TGA
+"carteolol",C,yes,1,FDA
+"Carvedilol",C,yes,1,TGA
+"Caspofungin",C,yes,1,TGA
+"Cefaclor",C,yes,1,TGA
+"cefadroxil",C,yes,1,FDA
+"Cefazolin",C,yes,1,TGA
+"cefdinir",C,yes,1,FDA
+"cefditoren",C,yes,1,FDA
+"Cefepime",C,yes,1,TGA
+"cefiderocol",C,yes,1,FDA
+"cefixime",C,yes,1,FDA
+"Cefotaxime",C,yes,1,TGA
+"cefotetan",C,yes,1,FDA
+"Cefoxitin",C,yes,1,TGA
+"cefpodoxime",C,yes,1,FDA
+"cefprozil",C,yes,1,FDA
+"Ceftaroline",C,yes,1,TGA
+"Ceftazidime",C,yes,1,TGA
+"ceftazidime + avibactam",C,yes,1,TGA
+"ceftibuten",C,yes,1,FDA
+"ceftizoxime",C,yes,1,FDA
+"ceftobiprole",C,yes,1,FDA
+"ceftolozane + tazobactam",C,yes,2,FDA;TGA
+"Ceftriaxone",C,yes,1,TGA
+"Cefuroxime",C,yes,1,TGA
+"Celecoxib",C,yes,1,TGA
+"Cemiplimab",C,yes,1,TGA
+"cenegermin",C,yes,1,FDA
+"cenobamate",C,yes,1,FDA
+"cephalexin",C,yes,1,TGA
+"Ceritinib",C,yes,1,TGA
+"ceritinib",C,no,2,FDA;TGA
+"Cerliponase alfa",C,yes,1,TGA
+"Certolizumab",C,yes,1,TGA
+"Cetirizine",C,yes,1,TGA
+"cetirizine hydrochloride",C,yes,2,FDA
+"Cetrorelix",C,yes,1,TGA
+"Cetuximab",C,yes,1,TGA
+"cevimeline",C,yes,1,FDA
+"chenodiol",C,yes,1,FDA
+"chicken + mangifera + banana + morus",C,yes,1,FDA
+"Chloral hydrate",C,yes,1,TGA
+"Chlorambucil",C,yes,1,TGA
+"Chloramphenicol",C,yes,1,TGA
+"chlordiazepoxide",C,yes,1,FDA
+"chlorhexidine + cetrimide",C,yes,1,TGA
+"chlorhexidine + propylene",C,yes,1,FDA
+"Chlormethine",C,yes,1,TGA
+"chloroprocaine",C,yes,1,FDA
+"Chloroquine",C,yes,1,FDA
+"chlorothiazide",C,yes,1,FDA
+"chlorphenamine + pseudoephedrine",C,yes,1,TGA
+"Chlorpromazine",C,yes,1,TGA
+"Chlortalidone",C,yes,1,TGA
+"chlorzoxazone",C,yes,1,FDA
+"cholecalciferol",C,yes,1,FDA
+"cholestyramine",C,yes,1,FDA
+"cholic acid",C,yes,1,FDA
+"choline + inositol + folic + pantothenic + thiamine + beef + beef + methylcobalamin + niacinamide + para-aminobenzoic + pyridoxine + biotin + hordeum + riboflavin + saccharomyces",C,yes,2,FDA
+"choline + inositol + folic + pantothenic + thiamine + beef + beef + methylcobalamin + nicotinamide + para-aminobenzoic + pyridoxine + biotin + hordeum + riboflavin + torula + saccharomyces",C,yes,1,FDA
+"Choriogonadotropin alfa",C,yes,1,TGA
+"chromium + copper + iron + manganese + iodine + fluoride + molybdenum + selenium + zinc",C,yes,1,TGA
+"Ciclopirox",C,yes,1,FDA
+"Ciclosporin",C,yes,1,TGA
+"Cidofovir",C,yes,1,TGA
+"cilostazol",C,yes,1,FDA
+"ciltacabtagene autoleucel",C,yes,2,FDA;TGA
+"cimetidine",C,yes,1,FDA
+"Cinacalcet",C,yes,1,TGA
+"cinnarizine + dimenhydrinate",C,yes,1,TGA
+"Ciprofloxacin",C,yes,1,TGA
+"Cisapride",C,yes,1,FDA
+"Cisatracurium",C,yes,1,TGA
+"Cisplatin",C,yes,1,TGA
+"Citalopram",C,yes,1,TGA
+"citric + magnesium + sodium",C,yes,1,TGA
+"Clarithromycin",C,yes,1,TGA
+"Clascoterone",C,yes,1,TGA
+"clascoterone",C,no,2,FDA;TGA
+"clemastine",C,yes,1,FDA
+"Clevidipine",C,yes,1,TGA
+"clindamycin + benzoyl",C,yes,1,TGA
+"clindamycin + tretinoin",C,yes,2,FDA;TGA
+"Clobazam",C,yes,1,TGA
+"Clobetasol",C,yes,1,TGA
+"Clobetasone",C,yes,1,TGA
+"clocortolone",C,yes,1,FDA
+"Clofarabine",C,yes,1,TGA
+"Clomifene",C,yes,1,TGA
+"Clomipramine",C,yes,1,TGA
+"Clonazepam",C,yes,1,TGA
+"clopidogrel + aspirin",C,yes,1,TGA
+"clorazepate",C,yes,1,FDA
+"Clotrimazole (skin)",C,yes,1,FDA
+"clotrimazole + hydrocortisone",C,yes,1,TGA
+"cloxacillin",C,yes,1,FDA
+"Clozapine",C,yes,1,TGA
+"coagulation + coagulation + coagulation + coagulation + protein + protein",C,yes,1,TGA
+"coagulation factor IX",C,yes,1,FDA
+"coagulation factor ix (recombinant)",C,yes,1,FDA
+"coagulation factor VIIa",C,yes,1,FDA
+"coagulation factor viia (recombinant)-jncw",C,yes,1,FDA
+"coagulation factor X",C,yes,1,FDA
+"coagulation factor x (human)",C,yes,1,FDA
+"coagulation factor xiii (human)",C,yes,1,FDA
+"Coal tar",C,yes,1,FDA
+"Cobimetinib",C,yes,1,TGA
+"Cocaine",C,yes,1,FDA
+"Codeine",C,yes,1,TGA
+"coffee + marine + amino + aloe + ophiocordyceps + elastin + curculigo + asian",C,yes,1,FDA
+"Colchicine",C,yes,1,TGA
+"colesevelam",C,yes,1,FDA
+"colesevelam hydrochloride",C,yes,1,FDA
+"colestipol",C,yes,1,FDA
+"Colestyramine",C,yes,1,TGA
+"colestyramine",C,no,1,TGA
+"colistimethate",C,yes,2,FDA;TGA
+"colistimethate sodium",C,yes,1,TGA
+"collagenase clostridium histolyticum",C,yes,2,FDA
+"conjugated + bazedoxifene",C,yes,1,FDA
+"Corifollitropin alfa",C,yes,1,TGA
+"corticorelin",C,yes,1,FDA
+"Cortisone",C,yes,1,TGA
+"cosyntropin",C,yes,1,FDA
+"Crisaborole",C,yes,1,TGA
+"crizanlizumab",C,yes,1,FDA
+"Crizotinib",C,yes,1,TGA
+"crizotinib",C,no,2,FDA;TGA
+"Crotamiton",C,yes,1,FDA
+"cyanocobalamin",C,yes,2,FDA
+"Cyclizine",C,yes,1,TGA
+"cyclobenzaprine",C,yes,1,FDA
+"Cyclopentolate",C,yes,1,TGA
+"Cyclophosphamide",C,yes,1,TGA
+"Cycloserine",C,yes,1,FDA
+"Cyproheptadine",C,yes,1,TGA
+"Cyproterone",C,yes,1,TGA
+"cysteamine hydrochloride",C,yes,1,TGA
+"Cytarabine",C,yes,1,TGA
+"Dabigatran",D,yes,4,Other;PMDA;TGA
+"Dabrafenib",D,yes,4,Other;PMDA;TGA
+"Dacarbazine",D,yes,4,Other;PMDA;TGA
+"daclatasvir",D,no,2,Other;PMDA
+"dacomitinib",D,yes,3,FDA;Other;PMDA
+"Dactinomycin",D,yes,3,Other;PMDA;TGA
+"dalbavancin",D,yes,2,FDA;Other
+"dalfampridine",D,yes,4,FDA;Other;PMDA
+"Dalteparin",D,yes,6,Other;PMDA;TGA
+"Danaparoid",D,yes,2,PMDA;TGA
+"Danazol",D,yes,4,FDA;Other;PMDA
+"danicopan",D,yes,3,FDA;PMDA;TGA
+"Dantrolene",D,yes,1,TGA
+"Dapagliflozin",D,yes,1,TGA
+"Dapoxetine",D,yes,1,TGA
+"daprodustat",D,yes,1,FDA
+"Dapsone",D,yes,1,TGA
+"Daptomycin",D,yes,1,TGA
+"Daratumumab",D,yes,1,TGA
+"daratumumab + hyaluronidase-fihj",D,yes,1,FDA
+"Darbepoetin alfa",D,yes,1,TGA
+"daridorexant",D,yes,2,FDA
+"Darifenacin",D,yes,1,TGA
+"Darolutamide",D,yes,1,TGA
+"Darunavir",D,yes,1,TGA
+"Dasatinib",D,yes,1,TGA
+"dasiglucagon",D,yes,2,FDA
+"Daunorubicin",D,yes,1,TGA
+"daxibotulinumtoxinA",D,yes,1,TGA
+"Death adder antivenom",D,yes,1,TGA
+"Deferasirox",D,yes,1,TGA
+"Deferiprone",D,yes,1,TGA
+"Defibrotide",D,yes,1,TGA
+"deflazacort",D,yes,1,FDA
+"Degarelix",D,yes,1,TGA
+"delafloxacin",D,yes,1,FDA
+"delandistrogene moxeparvovec",D,yes,1,FDA
+"delgocitinib",D,yes,2,FDA;TGA
+"delta-9-tetrahydrocannabinol + cannabidiol",D,yes,1,TGA
+"Demeclocycline",D,yes,1,FDA
+"Denosumab",D,yes,1,TGA
+"denosumab",D,no,4,FDA;TGA
+"deoxycholic acid",D,yes,2,FDA;TGA
+"Desferrioxamine",D,yes,1,TGA
+"Desflurane",D,yes,1,TGA
+"desipramine",D,yes,1,FDA
+"Desloratadine",D,yes,1,FDA
+"desogestrel + ethinyl",D,yes,1,FDA
+"desogestrel + ethinylestradiol",D,yes,1,TGA
+"Desonide",D,yes,1,TGA
+"desoximetasone",D,yes,1,FDA
+"desoxycorticosterone",D,yes,1,FDA
+"Desvenlafaxine",D,yes,1,TGA
+"Deucravacitinib",D,yes,1,TGA
+"deutetrabenazine",D,yes,1,FDA
+"Dexamethasone",D,yes,1,TGA
+"dexamethasone and ciprofloxacin",D,yes,1,FDA
+"dexamethasone and tobramycin",D,yes,1,FDA
+"Dexamethasone, framycetin and gramicidin",D,yes,1,TGA
+"dexamethasone, neomycin, and polymyxin b",D,yes,1,FDA
+"Dexamfetamine",D,yes,1,TGA
+"dexbrompheniramine + pseudoephedrine",D,yes,1,FDA
+"dexchlorpheniramine + dextromethorphan",D,yes,1,FDA
+"dexlansoprazole",D,yes,1,FDA
+"Dexmedetomidine",D,yes,1,TGA
+"Dexrazoxane",D,yes,1,TGA
+"dextran",D,yes,1,FDA
+"dextroamphetamine",D,yes,1,FDA
+"dextroamphetamine and amphetamine",D,yes,1,FDA
+"Dextromethorphan",D,yes,1,TGA
+"dextromethorphan + guaifenesin + phenylephrine",D,yes,1,FDA
+"dextromethorphan + quinidine",D,yes,1,FDA
+"dextrose",D,yes,1,FDA
+"dextrose + fructose + phosphoric",D,yes,1,FDA
+"dextrose + sodium + potassium + magnesium",D,yes,1,FDA
+"diatrizoate",D,yes,1,FDA
+"Diazepam",D,yes,1,TGA
+"Diazoxide",D,yes,1,TGA
+"dibucaine",D,yes,1,FDA
+"dichlorphenamide",D,yes,1,FDA
+"Diclofenac",D,yes,1,TGA
+"diclofenac and misoprostol",D,yes,1,FDA
+"Dicloxacillin",D,yes,1,TGA
+"dicyclomine",D,yes,1,FDA
+"didanosine",D,yes,1,FDA
+"Dienogest",D,yes,1,TGA
+"diethylpropion",D,yes,1,FDA
+"diethylstilbestrol",D,yes,1,FDA
+"Difelikefalin",D,yes,1,TGA
+"difenoxin and atropine",D,yes,1,FDA
+"diflorasone",D,yes,1,FDA
+"diflunisal",D,yes,1,FDA
+"difluprednate",D,yes,1,FDA
+"Digoxin",D,yes,1,TGA
+"Digoxin-specific antibody",D,yes,1,TGA
+"Dihydrocodeine",D,yes,1,TGA
+"dihydroergocornine + dihydroergocristine + dihydro-alpha-ergocryptine + dihydro-beta-ergocryptine",D,yes,1,FDA
+"dihydroergotamine",D,yes,1,FDA
+"Diltiazem",D,yes,1,TGA
+"dimenhydrinate",D,yes,1,FDA
+"dimercaprol",D,yes,1,FDA
+"dimethicone",D,yes,2,FDA
+"Dimethyl fumarate",D,yes,1,TGA
+"dinoprost",D,yes,2,FDA;TGA
+"Dinoprostone",D,yes,1,TGA
+"dioscorea villosa root extract",D,yes,1,FDA
+"diphenhydramine hydrochloride",D,yes,1,FDA
+"diphenoxylate + atropine",D,yes,1,TGA
+"diphenoxylate and atropine",D,yes,2,FDA;TGA
+"diphtheria + tetanus + acellular + hepatitis + inactivated",D,yes,1,FDA
+"diphtheria + tetanus + acellular + inactivated",D,yes,1,FDA
+"diphtheria + tetanus + acellular + inactivated + haemophilus + hepatitis",D,yes,2,FDA
+"diphtheria + tetanus + pertussis + filamentous + pertactin + fimbriae + hepatitis + inactivated + 2 + haemophilus",D,yes,1,TGA
+"diphtheria + tetanus + pertussis + pertussis + pertactin + pertussis + inactivated + 2",D,yes,1,TGA
+"diphtheria + tetanus + pertussis + PT) + filamentous + pertactin + fimbriae",D,yes,1,TGA
+"Dipyridamole",D,yes,1,TGA
+"Diroximel fumarate",D,yes,1,TGA
+"Disopyramide",D,yes,1,TGA
+"Disulfiram",D,yes,1,TGA
+"divalproex",D,yes,1,FDA
+"Dobutamine",D,yes,1,TGA
+"Docetaxel",D,yes,1,TGA
+"docosanol",D,yes,1,FDA
+"docusate + sennosides",D,yes,1,FDA
+"dofetilide",D,yes,1,FDA
+"dolasetron",D,yes,1,FDA
+"dolutegravir + lamivudine",D,yes,1,TGA
+"Domperidone",D,yes,1,TGA
+"Donanemab",D,yes,1,TGA
+"Donepezil",D,yes,1,TGA
+"Dopamine",D,yes,1,TGA
+"doravirine",D,yes,1,FDA
+"doravirine, lamivudine, and tenofovir disoproxil fumarate",D,yes,1,FDA
+"Dornase alfa",D,yes,1,TGA
+"dorzolamide + timolol",D,yes,1,TGA
+"Dostarlimab",D,yes,1,TGA
+"Dosulepin",D,yes,1,TGA
+"doxazosin",D,yes,1,FDA
+"Doxepin",D,yes,1,TGA
+"doxercalciferol",D,yes,1,FDA
+"Doxorubicin",D,yes,1,TGA
+"doxorubicin (liposomal)",D,yes,1,FDA
+"Doxycycline",D,yes,1,TGA
+"doxylamine and pyridoxine",D,yes,1,FDA
+"drometrizole + titanium + ecamsule + bemotrizinol + diethylamino + octinoxate",D,yes,1,FDA
+"dronabinol",D,yes,1,FDA
+"dronedarone",D,yes,1,FDA
+"Droperidol",D,yes,1,TGA
+"drospirenone + estetrol",D,yes,1,FDA
+"drospirenone + ethinyl",D,yes,2,FDA
+"drospirenone + ethinylestradiol",D,yes,2,TGA
+"Dulaglutide",D,yes,1,TGA
+"Duloxetine",D,yes,1,TGA
+"Dupilumab",D,yes,1,TGA
+"Durvalumab",D,yes,1,TGA
+"Dutasteride",D,yes,1,TGA
+"duvelisib",D,yes,1,FDA
+"east + oleuropein + willow",E,yes,1,FDA
+"ecallantide",E,yes,1,FDA
+"echinacea + apis + atropa + drosera + artemisia",E,yes,1,FDA
+"echothiophate",E,yes,1,FDA
+"Econazole",E,yes,1,FDA
+"Eculizumab",E,yes,1,TGA
+"Edaravone",E,yes,5,Other;PMDA;TGA
+"edetate calcium disodium",E,yes,3,FDA;Other;PMDA
+"edetate disodium",E,yes,1,FDA
+"edoxaban",E,yes,5,FDA;Other;PMDA
+"Edrophonium",E,yes,2,FDA;PMDA
+"efavirenz",E,yes,4,Other;PMDA
+"efavirenz + emtricitabine + tenofovir",E,yes,1,FDA
+"efbemalenograstim alfa",E,yes,1,FDA
+"efgartigimod + hyaluronidase",E,yes,1,FDA
+"efgartigimod alfa",E,yes,1,TGA
+"efinaconazole",E,yes,1,FDA
+"eflapegrastim",E,yes,1,FDA
+"Eflornithine",E,yes,1,TGA
+"elacestrant",E,yes,4,FDA;TGA
+"Elafibranor",E,yes,1,TGA
+"elagolix",E,yes,1,FDA
+"elapegademase",E,yes,1,FDA
+"elbasvir + grazoprevir",E,yes,1,FDA
+"Eletriptan",E,yes,1,TGA
+"Eliglustat",E,yes,1,TGA
+"elivaldogene autotemcel",E,yes,1,FDA
+"Elosulfase alfa",E,yes,1,TGA
+"Elotuzumab",E,yes,1,TGA
+"elranatamab",E,yes,2,FDA;TGA
+"Eltrombopag",E,yes,1,TGA
+"eluxadoline",E,yes,1,FDA
+"emapalumab",E,yes,1,FDA
+"Emicizumab",E,yes,1,TGA
+"empagliflozin + linagliptin",E,yes,2,TGA
+"Enalapril",E,yes,1,TGA
+"enalaprilat",E,yes,1,FDA
+"enasidenib",E,yes,1,FDA
+"Encorafenib",E,yes,1,TGA
+"Enfortumab vedotin",E,yes,1,TGA
+"Enoxaparin",E,yes,1,TGA
+"ensartinib",E,yes,1,FDA
+"Entecavir",E,yes,1,TGA
+"Entrectinib",E,yes,1,TGA
+"Enzalutamide",E,yes,1,TGA
+"enzalutamide",E,no,2,FDA;TGA
+"Epcoritamab",E,yes,1,TGA
+"Ephedrine",E,yes,1,TGA
+"epinastine",E,yes,1,FDA
+"epinephrine",E,yes,1,FDA
+"epinephrine + allium + ambrosia + arsenic + artemisia + bellis + brassica + chenopodium + euphrasia + histamine + medicago + phleum + rumex + schoenocaulon + silicon + solidago + taraxacum + trifolium + xanthium",E,yes,1,FDA
+"Epirubicin",E,yes,1,TGA
+"Eplerenone",E,yes,1,TGA
+"eplontersen",E,yes,1,FDA
+"Epoetin alfa",E,yes,1,TGA
+"Epoprostenol",E,yes,1,TGA
+"eprosartan + hydrochlorothiazide",E,yes,1,FDA
+"eptacog alfa",E,yes,1,TGA
+"Eptifibatide",E,yes,1,TGA
+"Eptinezumab",E,yes,1,TGA
+"eravacycline",E,yes,1,FDA
+"erdafitinib",E,yes,1,FDA
+"Erenumab",E,yes,1,TGA
+"ergocalciferol",E,yes,2,FDA
+"Ergometrine",E,yes,1,TGA
+"ergotamine + caffeine",E,yes,1,FDA
+"Eribulin",E,yes,1,TGA
+"Erlotinib",E,yes,1,TGA
+"Ertapenem",E,yes,1,TGA
+"ertugliflozin + sitagliptin",E,yes,1,FDA
+"Erythromycin",E,yes,1,TGA
+"erythromycin (topical)",E,yes,1,FDA
+"Escitalopram",E,yes,1,TGA
+"Esketamine",E,yes,1,TGA
+"eslicarbazepine",E,yes,1,FDA
+"Esmolol",E,yes,1,TGA
+"Esomeprazole",E,yes,1,TGA
+"estazolam",E,yes,1,FDA
+"esterified + methyltestosterone",E,yes,2,FDA
+"estetrol + drospirenone",E,yes,1,TGA
+"estradiol",E,no,1,FDA
+"estradiol + drospirenone",E,yes,2,TGA
+"estradiol + dydrogesterone",E,yes,1,TGA
+"estradiol + norethisterone",E,yes,1,TGA
+"estradiol + progesterone",E,yes,1,TGA
+"Estriol",E,yes,1,TGA
+"estrone",E,yes,1,FDA
+"estropipate",E,yes,1,FDA
+"eszopiclone",E,yes,1,FDA
+"Etanercept",E,yes,1,TGA
+"ethacrynic acid",E,yes,1,FDA
+"Ethambutol",E,yes,1,TGA
+"ethanol",E,yes,3,FDA
+"ethanolamine oleate",E,yes,1,FDA
+"Ethosuximide",E,yes,1,TGA
+"ethosuximide",E,no,2,FDA;TGA
+"ethynodiol + ethinyl",E,yes,2,FDA
+"etodolac",E,yes,1,FDA
+"etomidate",E,yes,1,FDA
+"Etonogestrel",E,yes,1,TGA
+"etonogestrel + ethinyl",E,yes,2,FDA
+"Etoposide",E,yes,1,TGA
+"etoposide phosphate",E,yes,2,FDA;TGA
+"Etoricoxib",E,yes,1,TGA
+"Etrasimod",E,yes,1,TGA
+"Etravirine",E,yes,1,TGA
+"everolimus",E,yes,1,FDA
+"evinacumab",E,yes,1,FDA
+"Evolocumab",E,yes,1,TGA
+"Exemestane",E,yes,1,TGA
+"exenatide",E,yes,1,FDA
+"Ezetimibe",E,yes,1,TGA
+"ezetimibe",E,no,1,FDA
+"ezetimibe + simvastatin",E,yes,1,TGA
+"factor + von",F,yes,1,TGA
+"factor ix",F,no,1,PMDA
+"factor viia",F,no,2,Other;PMDA
+"factor viii",F,yes,2,Other;PMDA
+"factor x",F,no,1,PMDA
+"factor xiii",F,no,1,PMDA
+"fam-trastuzumab deruxtecan-nxki",F,yes,5,FDA;Other;PMDA
+"Famciclovir",F,yes,5,Other;PMDA;TGA
+"Famotidine",F,yes,5,Other;PMDA;TGA
+"Fampridine",F,yes,5,Other;PMDA;TGA
+"Faricimab",F,yes,5,Other;PMDA;TGA
+"faropenem",F,no,3,Other;PMDA
+"favipiravir",F,no,1,PMDA
+"Febuxostat",F,yes,1,TGA
+"fedratinib",F,yes,2,FDA;TGA
+"felbamate",F,yes,1,FDA
+"Felodipine",F,yes,1,TGA
+"Fenfluramine",F,yes,1,TGA
+"Fenofibrate",F,yes,1,TGA
+"fenofibric acid",F,yes,1,FDA
+"fenoprofen",F,yes,1,FDA
+"Fentanyl",F,yes,1,TGA
+"ferric + agnus + barium + chimaphila + clematis + conium + digitalis + interferon + interleukin-10 + aldesleukin + melatonin + sus + sabal + selenium + delphinium + transforming + thuja + zinc",F,yes,1,FDA
+"ferric + chaste + barium + chimaphila + clematis + conium + digitalis + interferon + interleukin-10 + aldesleukin + melatonin + sus + saw + selenium + delphinium + transforming + thuja + zinc",F,yes,1,FDA
+"ferric carboxymaltose",F,yes,2,FDA;TGA
+"ferric citrate",F,yes,1,FDA
+"ferric derisomaltose",F,yes,2,FDA;TGA
+"ferric maltol",F,yes,1,FDA
+"ferric pyrophosphate citrate",F,yes,1,FDA
+"ferrous sulfate",F,yes,1,FDA
+"ferumoxytol",F,yes,1,FDA
+"fesoterodine",F,yes,1,FDA
+"fexinidazole",F,yes,1,FDA
+"Fexofenadine",F,yes,1,TGA
+"Fezolinetant",F,yes,1,TGA
+"fibrinogen + human",F,yes,1,FDA
+"Fidaxomicin",F,yes,1,TGA
+"Filgrastim",F,yes,1,TGA
+"filgrastim",F,no,1,FDA
+"finafloxacin",F,yes,1,FDA
+"Finerenone",F,yes,1,TGA
+"Fingolimod",F,yes,1,TGA
+"flavoxate",F,yes,1,FDA
+"Flecainide",F,yes,1,TGA
+"flibanserin",F,yes,1,FDA
+"florbetaben F 18",F,yes,1,FDA
+"florbetapir F 18",F,yes,1,FDA
+"floxuridine",F,yes,1,FDA
+"Flucloxacillin",F,yes,1,TGA
+"Fluconazole",F,yes,1,TGA
+"Flucytosine",F,yes,1,TGA
+"Fludarabine",F,yes,1,TGA
+"fludeoxyglucose f 18",F,yes,1,FDA
+"Fludrocortisone",F,yes,1,TGA
+"Flumazenil",F,yes,1,TGA
+"flunisolide",F,yes,1,FDA
+"Flunitrazepam",F,yes,1,TGA
+"fluocinolone",F,yes,1,FDA
+"fluocinolone + dimethyl",F,yes,1,FDA
+"fluocinolone acetonide",F,yes,1,FDA
+"fluocinonide",F,yes,1,FDA
+"Fluorescein",F,yes,1,TGA
+"fluorescein + benoxinate",F,yes,1,FDA
+"fluoroestradiol F 18",F,yes,1,FDA
+"Fluorometholone",F,yes,1,TGA
+"fluorouracil + salicylic",F,yes,2,TGA
+"Fluoxetine",F,yes,1,TGA
+"fluoxymesterone",F,yes,1,FDA
+"fluphenazine",F,yes,1,FDA
+"flurandrenolide",F,yes,1,FDA
+"flurazepam",F,yes,1,FDA
+"flurbiprofen",F,yes,1,FDA
+"Flutamide",F,yes,1,TGA
+"fluticasone + salmeterol",F,yes,1,TGA
+"Fluvastatin",F,yes,1,TGA
+"Fluvoxamine",F,yes,1,TGA
+"Folic acid",F,yes,1,TGA
+"folinic acid",F,yes,2,TGA
+"Follitropin alfa",F,yes,1,TGA
+"Follitropin beta",F,yes,1,TGA
+"Follitropin delta",F,yes,1,TGA
+"Fomepizole",F,yes,1,TGA
+"Fondaparinux",F,yes,1,TGA
+"fosamprenavir",F,yes,2,FDA;TGA
+"Fosaprepitant",F,yes,1,TGA
+"Foscarnet",F,yes,1,TGA
+"fosdenopterin",F,yes,1,FDA
+"Fosfomycin",F,yes,1,TGA
+"fosinopril",F,yes,1,FDA
+"fostamatinib",F,yes,1,FDA
+"Fostemsavir",F,yes,1,TGA
+"Fremanezumab",F,yes,1,TGA
+"frovatriptan",F,yes,1,FDA
+"fruquintinib",F,yes,2,FDA;TGA
+"Fulvestrant",F,yes,1,TGA
+"Funnel web spider antivenom",F,yes,1,TGA
+"Furosemide",F,yes,1,TGA
+"futibatinib",F,yes,2,FDA;TGA
+"Gabapentin",G,yes,5,Other;PMDA;TGA
+"gabapentin enacarbil",G,yes,2,FDA;PMDA
+"gadobenate dimeglumine",G,yes,4,FDA;Other;PMDA
+"gadobutrol",G,yes,6,FDA;Other;PMDA;TGA
+"gadodiamide",G,yes,3,FDA;Other;PMDA
+"gadopentetate dimeglumine",G,no,2,Other;PMDA
+"gadopiclenol",G,yes,2,FDA;TGA
+"gadoterate meglumine",G,yes,1,FDA
+"gadoteridol",G,yes,2,FDA;TGA
+"gadoxetate disodium",G,yes,1,FDA
+"Galantamine",G,yes,1,TGA
+"Galcanezumab",G,yes,1,TGA
+"gallium 68 gozetotide",G,yes,1,FDA
+"gallium nitrate",G,yes,1,FDA
+"Galsulfase",G,yes,1,TGA
+"ganaxolone",G,yes,2,FDA
+"Ganciclovir",G,yes,1,TGA
+"ganciclovir",G,no,1,FDA
+"Ganirelix",G,yes,1,TGA
+"gatifloxacin",G,yes,2,FDA
+"Gefitinib",G,yes,1,TGA
+"Gemcitabine",G,yes,1,TGA
+"Gemfibrozil",G,yes,1,TGA
+"gemifloxacin",G,yes,1,FDA
+"Gemtuzumab ozogamicin",G,yes,1,TGA
+"Gentamicin",G,yes,1,TGA
+"gentian violet",G,yes,1,FDA
+"gepirone",G,yes,1,FDA
+"Gilteritinib",G,yes,1,TGA
+"gilteritinib",G,no,1,FDA
+"gilteritinib fumarate",G,yes,1,TGA
+"givinostat",G,yes,1,FDA
+"givosiran",G,yes,2,FDA;TGA
+"glasdegib",G,yes,1,FDA
+"Glatiramer",G,yes,1,TGA
+"Glibenclamide",G,yes,1,TGA
+"Gliclazide",G,yes,1,TGA
+"Glimepiride",G,yes,1,TGA
+"Glipizide",G,yes,1,TGA
+"glofitamab",G,yes,2,FDA;TGA
+"glucarpidase",G,yes,1,FDA
+"glucose",G,yes,1,TGA
+"glucose + calcium + magnesium + potassium + sodium + sodium",G,yes,1,TGA
+"glutamine",G,yes,1,FDA
+"glyburide + metformin",G,yes,1,FDA
+"glycerin + taraxacum + phytolacca + arsenic + lycoperdon + activated + carbon + coffea + nitric + nux + petroleum + phosphoric + phosphorus + sulfur + acetylsalicylic + formaldehyde + nitroglycerin + insulin + lithium + turpentine + thyroid + suis) + acetic + benzoic + benzyl + boric + chlorine + cortisone + eugenol + estrone + isopropyl + lactic + petrolatum + phenylbutazone + lead + potassium + resorcinol + salicylic + sorbitol + stearyl + xylitol + adrenocorticotrophin",G,yes,1,FDA
+"Glycerol",G,yes,1,FDA
+"glycerol phenylbutyrate",G,yes,1,FDA
+"Glyceryl trinitrate",G,yes,1,TGA
+"glycine",G,yes,1,FDA
+"glycopyrrolate",G,yes,1,FDA
+"glycopyrronium",G,yes,1,FDA
+"glycopyrronium + neostigmine",G,yes,1,TGA
+"Golimumab",G,yes,1,TGA
+"gonadorelin",G,yes,1,FDA
+"goserelin",G,yes,2,FDA;TGA
+"Granisetron",G,yes,1,TGA
+"Griseofulvin",G,yes,1,TGA
+"guanabenz",G,yes,1,FDA
+"Guanfacine",G,yes,1,TGA
+"Guselkumab",G,yes,1,TGA
+"haemophilus + tetanus",H,yes,1,FDA
+"halcinonide",H,yes,1,FDA
+"halobetasol",H,yes,1,FDA
+"Haloperidol",H,yes,5,Other;PMDA;TGA
+"halothane",H,no,1,PMDA
+"HCG",H,no,3,Other;PMDA
+"hemin",H,yes,2,FDA;PMDA
+"Heparin",H,yes,3,Other;PMDA;TGA
+"hepatitis a and hepatitis b vaccine",H,yes,3,FDA;Other
+"Hepatitis A vaccine",H,yes,1,FDA
+"Hepatitis B immunoglobulin",H,yes,1,TGA
+"hexaminolevulinate",H,yes,2,FDA;TGA
+"hexylresorcinol",H,yes,1,FDA
+"histrelin",H,yes,1,FDA
+"human albumin",H,yes,1,TGA
+"human c1 esterase inhibitor",H,yes,1,TGA
+"human cytomegalovirus immunoglobulin",H,yes,1,TGA
+"human immunoglobulin g",H,yes,1,FDA
+"human zoster immunoglobulin",H,yes,1,TGA
+"Hyaluronidase",H,yes,1,TGA
+"Hydralazine",H,yes,1,TGA
+"hydralazine and isosorbide dinitrate",H,yes,1,FDA
+"hydrochlorothiazide and amiloride",H,yes,2,FDA;TGA
+"hydrochlorothiazide and spironolactone",H,yes,1,FDA
+"hydrochlorothiazide and triamterene",H,yes,1,FDA
+"hydrocodone + acetaminophen",H,yes,1,FDA
+"hydrocodone + homatropine",H,yes,1,FDA
+"hydrocodone and acetaminophen",H,yes,1,FDA
+"hydrocodone and aspirin",H,yes,1,FDA
+"hydrocodone and chlorpheniramine",H,yes,1,FDA
+"hydrocodone and homatropine",H,yes,1,FDA
+"hydrocodone and ibuprofen",H,yes,1,FDA
+"Hydrocortisone (skin)",H,yes,1,FDA
+"hydrocortisone + aciclovir",H,yes,1,TGA
+"hydrocortisone and acetic acid",H,yes,1,FDA
+"hydrocortisone and pramoxine",H,yes,1,FDA
+"hydrogen peroxide",H,yes,1,FDA
+"Hydromorphone",H,yes,1,TGA
+"hydroquinone",H,yes,1,FDA
+"hydroxocobalamin",H,yes,2,FDA;TGA
+"Hydroxycarbamide",H,yes,1,TGA
+"Hydroxychloroquine",H,yes,1,TGA
+"hydroxyethyl starch",H,yes,1,FDA
+"hydroxyprogesterone",H,yes,1,FDA
+"hydroxyurea",H,yes,1,FDA
+"hydroxyzine",H,yes,1,FDA
+"Hyoscine butylbromide",H,yes,1,TGA
+"hyoscyamine",H,yes,1,FDA
+"hypromellose + povidone",H,yes,1,FDA
+"ibalizumab",I,yes,2,FDA;Other
+"Ibandronic acid",I,no,3,Other;PMDA
+"ibritumomab tiuxetan",I,yes,5,FDA;Other;PMDA
+"Ibrutinib",I,yes,5,Other;PMDA;TGA
+"Ibuprofen",I,yes,3,Other;PMDA
+"ibuprofen + codeine",I,yes,1,TGA
+"Ibuprofen with codeine",I,no,1,Other
+"ibutilide",I,yes,3,FDA;Other
+"Icatibant",I,yes,4,Other;PMDA;TGA
+"Ichthammol",I,yes,2,FDA;PMDA
+"Icosapent ethyl",I,yes,3,Other;PMDA;TGA
+"Idarubicin",I,yes,1,TGA
+"Idarucizumab",I,yes,1,TGA
+"idecabtagene vicleucel",I,yes,1,FDA
+"Idelalisib",I,yes,1,TGA
+"idelalisib",I,no,2,FDA;TGA
+"idoxuridine",I,yes,1,FDA
+"Idursulfase",I,yes,1,TGA
+"Ifosfamide",I,yes,1,TGA
+"iloperidone",I,yes,1,FDA
+"Iloprost",I,yes,1,TGA
+"Imatinib",I,yes,1,TGA
+"Imiglucerase",I,yes,1,TGA
+"imipenem, cilastatin, and relebactam",I,yes,1,FDA
+"Imipramine",I,yes,1,TGA
+"Imiquimod",I,yes,1,TGA
+"immune globulin",I,yes,1,FDA
+"immune globulin intravenous (human)",I,yes,1,FDA
+"immune globulin subcutaneous",I,yes,1,FDA
+"immunoglobulin (human)",I,yes,2,TGA
+"inavolisib",I,yes,2,FDA;TGA
+"Inclisiran",I,yes,1,TGA
+"incobotulinumtoxina",I,no,2,FDA;TGA
+"incobotulinumtoxinA",I,yes,2,FDA;TGA
+"indacaterol + mometasone",I,yes,1,TGA
+"Indapamide",I,yes,1,TGA
+"indinavir",I,yes,1,FDA
+"indocyanine green",I,yes,2,FDA;TGA
+"Indometacin",I,yes,1,TGA
+"inebilizumab",I,yes,1,FDA
+"infigratinib",I,yes,1,TGA
+"Infliximab",I,yes,1,TGA
+"ingenol mebutate",I,yes,1,TGA
+"inotersen",I,yes,1,FDA
+"Inotuzumab ozogamicin",I,yes,1,TGA
+"insulin + lixisenatide",I,yes,1,FDA
+"insulin aspart",I,yes,2,FDA;TGA
+"insulin degludec",I,yes,2,FDA;TGA
+"insulin detemir",I,yes,2,FDA;TGA
+"insulin glargine",I,yes,2,FDA;TGA
+"insulin glulisine",I,yes,2,FDA;TGA
+"insulin lispro",I,yes,2,FDA;TGA
+"interferon alfa-n3",I,yes,1,FDA
+"Interferon beta",I,yes,1,TGA
+"interferon beta-1a",I,yes,2,FDA;TGA
+"interferon beta-1b",I,yes,2,FDA;TGA
+"Interferon gamma",I,yes,1,TGA
+"interferon gamma-1b",I,yes,1,TGA
+"interleukin-12 + interferon + sus + bos + apis + fumaria + gallic + hepar + histamine + kali + bos + sus + manganese + pinus + piper + prunus + quercetin + rutin + salsolinol + silicea + sus + sulfuric + sus + bos + bos + tilia + fraxinus + betula + juglans + ulmus + quercus + fagus + populus + carya + platanus + salix + acer",I,yes,1,FDA
+"iobenguane",I,yes,1,FDA
+"Iodine",I,yes,1,FDA
+"iodixanol",I,yes,2,FDA;TGA
+"ioflupane",I,yes,1,FDA
+"iohexol",I,yes,2,FDA;TGA
+"iomeprol",I,yes,1,FDA
+"iopamidol",I,yes,1,FDA
+"iopromide",I,yes,2,FDA;TGA
+"ioversol",I,yes,2,FDA;TGA
+"Ipilimumab",I,yes,1,TGA
+"ipilimumab",I,no,2,FDA;TGA
+"ipomoea purga root",I,yes,1,FDA
+"Ipratropium",I,yes,1,TGA
+"Iptacopan",I,yes,1,TGA
+"Irbesartan",I,yes,1,TGA
+"irbesartan + hydrochlorothiazide",I,yes,1,TGA
+"Irinotecan",I,yes,1,TGA
+"Iron",I,yes,1,TGA
+"iron dextran",I,yes,1,FDA
+"iron sucrose",I,yes,2,FDA;TGA
+"isocarboxazid",I,yes,1,FDA
+"Isoflurane",I,yes,1,TGA
+"isoleucine + leucine + lysine + methionine + phenylalanine + threonine + tryptophan + valine + alanine + arginine + aspartic + glutamic + glycine + histidine + proline + serine + taurine + tyrosine",I,yes,1,FDA
+"Isoniazid",I,yes,1,TGA
+"Isoprenaline",I,yes,1,TGA
+"isopropyl alcohol",I,yes,1,FDA
+"isosorbide",I,yes,2,FDA;TGA
+"Isosorbide dinitrate",I,yes,1,TGA
+"Isosorbide mononitrate",I,yes,1,TGA
+"Isotretinoin",I,yes,1,TGA
+"isoxsuprine",I,yes,1,FDA
+"isradipine",I,yes,1,FDA
+"istradefylline",I,yes,1,FDA
+"Itraconazole",I,yes,1,TGA
+"Ivabradine",I,yes,1,TGA
+"Ivacaftor",I,yes,1,TGA
+"Ivermectin",I,yes,1,TGA
+"Ivosidenib",I,yes,1,TGA
+"ixabepilone",I,yes,1,FDA
+"ixazomib",I,yes,1,FDA
+"Ixekizumab",I,yes,1,TGA
+"jaborandi",J,no,3,Other;PMDA
+"Japanese encephalitis vaccine",J,yes,5,FDA;Other;PMDA
+"jujube + oat + nelumbo + rice",J,yes,1,FDA
+"kallidinogenase",K,no,3,Other;PMDA
+"kanamycin",K,yes,5,FDA;Other;PMDA
+"kaolin",K,no,2,Other
+"karaya gum",K,no,2,Other
+"Ketamine",K,yes,6,Other;PMDA;TGA
+"ketazolam",K,no,1,Other
+"Ketoconazole",K,yes,4,FDA;Other
+"Ketoconazole (skin)",K,yes,4,Other;PMDA
+"ketoconazole + clobetasol + neomycin",K,yes,1,FDA
+"ketoprofen",K,yes,1,FDA
+"Ketorolac",K,yes,1,TGA
+"ketorolac tromethamine",K,yes,1,FDA
+"Ketotifen",K,yes,1,TGA
+"L-glutamine",L,yes,1,FDA
+"Labetalol",L,yes,1,TGA
+"lachesis + melatonin + molybdenum + neurotrophin-3 + neurotrophin-4 + oxytocin + silicon + sus + thyrotropin + betaine + vanadium + zinc + gold + brain-derived + bufo + calcium + chromic + cicuta + cobalamin + ubidecarenone + copper + iron + folic + sus",L,yes,1,FDA
+"Lacosamide",L,yes,1,TGA
+"lactase",L,yes,1,FDA
+"Lactobacillus",L,yes,3,FDA;Other;PMDA
+"Lactulose",L,yes,3,FDA;Other;PMDA
+"lafutidine",L,no,2,Other;PMDA
+"Lamivudine",L,yes,3,Other;PMDA;TGA
+"lamivudine + zidovudine",L,yes,1,TGA
+"Lamivudine with zidovudine",L,no,2,Other;PMDA
+"Lamotrigine",L,yes,3,Other;PMDA;TGA
+"Lanadelumab",L,yes,1,TGA
+"Lanreotide",L,yes,1,TGA
+"Lansoprazole",L,yes,1,TGA
+"Lanthanum",L,yes,1,TGA
+"Lapatinib",L,yes,1,TGA
+"Laronidase",L,yes,1,TGA
+"Larotrectinib",L,yes,1,TGA
+"Lasmiditan",L,yes,1,FDA
+"Latanoprost",L,yes,1,TGA
+"latanoprost",L,no,3,FDA;TGA
+"latanoprost + timolol",L,yes,1,TGA
+"Latanoprostene bunod",L,yes,1,FDA
+"Lebrikizumab",L,yes,1,TGA
+"Lecanemab",L,yes,2,FDA;TGA
+"Ledipasvir and sofosbuvir",L,yes,2,FDA;TGA
+"lefamulin",L,yes,2,FDA
+"Leflunomide",L,yes,1,TGA
+"Lemborexant",L,yes,1,TGA
+"Lenacapavir",L,yes,1,TGA
+"Lenalidomide",L,yes,1,TGA
+"Leniolisib",L,yes,2,FDA;TGA
+"Lenvatinib",L,yes,1,TGA
+"Lercanidipine",L,yes,1,TGA
+"Letermovir",L,yes,1,TGA
+"letibotulinumtoxinA",L,yes,2,FDA;TGA
+"Letrozole",L,yes,1,TGA
+"Leucovorin",L,yes,1,FDA
+"Levalbuterol",L,yes,1,FDA
+"levalbuterol tartrate",L,yes,1,FDA
+"Levamisole",L,yes,1,FDA
+"Levamlodipine",L,yes,1,FDA
+"Levetiracetam",L,yes,1,TGA
+"Levobunolol",L,yes,1,FDA
+"levocarnitine",L,yes,746,FDA
+"Levocarnitine",L,yes,1,FDA
+"Levocetirizine",L,yes,1,FDA
+"levocetirizine dihydrochloride",L,yes,1,FDA
+"levodopa + carbidopa",L,yes,1,TGA
+"levodopa + carbidopa + entacapone",L,yes,1,TGA
+"Levodopa with benserazide or carbidopa",L,yes,1,TGA
+"Levofloxacin",L,yes,1,FDA
+"Levoketoconazole",L,yes,1,FDA
+"Levoleucovorin",L,yes,1,FDA
+"levomefolate calcium",L,yes,1,FDA
+"Levomilnacipran",L,yes,1,FDA
+"levonorgestrel + ethinylestradiol",L,yes,1,TGA
+"Levorphanol",L,yes,1,FDA
+"Levothyroxine",L,yes,1,TGA
+"lidocaine + adrenaline",L,yes,2,TGA
+"lidocaine + epinephrine",L,yes,1,FDA
+"lifileucel",L,yes,3,FDA;TGA
+"Lifitegrast",L,yes,1,FDA
+"lifitegrast",L,no,1,FDA
+"Linaclotide",L,yes,1,FDA
+"Lincomycin",L,yes,1,TGA
+"Linezolid",L,yes,1,TGA
+"linezolid",L,no,2,FDA;TGA
+"Liothyronine",L,yes,1,TGA
+"Lipegfilgrastim",L,yes,1,TGA
+"Liraglutide",L,yes,1,TGA
+"Lisdexamfetamine",L,yes,1,TGA
+"Lisinopril",L,yes,1,TGA
+"lisinopril",L,no,2,FDA
+"lisinopril dihydrate",L,yes,1,TGA
+"Lisocabtagene maraleucel",L,yes,1,FDA
+"Lithium",L,yes,1,TGA
+"Lodoxamide",L,yes,1,TGA
+"Lofexidine",L,yes,1,FDA
+"Lomitapide",L,yes,1,FDA
+"Lomustine",L,yes,1,TGA
+"Lonafarnib",L,yes,1,FDA
+"Loncastuximab tesirine",L,yes,2,FDA;TGA
+"loncastuximab tesirine",L,no,2,FDA;TGA
+"Loperamide",L,yes,1,FDA
+"lopinavir + ritonavir",L,yes,1,TGA
+"Loratadine",L,yes,1,FDA
+"Lorazepam",L,yes,1,TGA
+"Lorlatinib",L,yes,1,TGA
+"Losartan",L,yes,1,TGA
+"Loteprednol",L,yes,1,FDA
+"lotilaner + moxidectin + praziquantel + pyrantel",L,yes,4,FDA
+"Lovastatin",L,yes,1,FDA
+"Loxapine",L,yes,1,FDA
+"Lubiprostone",L,yes,1,FDA
+"Luliconazole",L,yes,1,FDA
+"Lumasiran",L,yes,1,TGA
+"Lumateperone",L,yes,1,FDA
+"Lurasidone",L,yes,1,TGA
+"lurbinectedin",L,yes,4,FDA;TGA
+"Luspatercept",L,yes,1,FDA
+"lusutrombopag",L,yes,1,FDA
+"Lutetium Lu 177 dotatate",L,yes,1,FDA
+"Lutetium Lu 177 vipivotide tetraxetan",L,yes,1,FDA
+"Lutropin alfa",L,yes,1,TGA
+"macimorelin",M,yes,1,FDA
+"Macitentan",M,yes,4,Other;PMDA;TGA
+"Macitentan with tadalafil",M,no,2,Other;PMDA
+"macrogol + potassium + sodium + sodium + magnesium + citric + bisacodyl",M,yes,1,TGA
+"Macrogol laxatives",M,no,3,Other;PMDA
+"mafenide",M,yes,1,FDA
+"magnesium carbonate",M,no,1,PMDA
+"magnesium chloride",M,no,1,PMDA
+"magnesium citrate",M,yes,2,FDA;PMDA
+"magnesium hydroxide",M,no,2,Other;PMDA
+"magnesium oxide",M,yes,1,FDA
+"magnesium salicylate",M,yes,1,FDA
+"Magnesium sulfate",M,yes,1,TGA
+"malathion",M,yes,1,FDA
+"Mannitol",M,yes,1,TGA
+"maralixibat",M,yes,1,FDA
+"Maraviroc",M,yes,1,TGA
+"margetuximab",M,yes,1,FDA
+"Maribavir",M,yes,1,TGA
+"marstacimab",M,yes,1,FDA
+"matricaria + hyoscyamus + strychnos + sodium + passiflora + sepia + valeriana",M,yes,1,FDA
+"Mavacamten",M,yes,1,TGA
+"mavorixafor",M,yes,1,FDA
+"measles + attenuated) + mumps + attenuated) + rubella + attenuated)",M,yes,1,FDA
+"measles + attenuated) + mumps + attenuated) + rubella + attenuated) + varicella-zoster + attenuated)",M,yes,1,TGA
+"Mebendazole",M,yes,1,FDA
+"Mebeverine",M,yes,1,TGA
+"mecamylamine",M,yes,1,FDA
+"Mecasermin",M,yes,1,TGA
+"mechlorethamine",M,yes,1,FDA
+"meclizine",M,yes,1,FDA
+"meclofenamate",M,yes,1,FDA
+"mecobalamin",M,yes,1,TGA
+"Medroxyprogesterone",M,yes,1,TGA
+"medrysone",M,yes,1,FDA
+"Mefenamic acid",M,yes,1,TGA
+"Mefloquine",M,yes,1,TGA
+"Megestrol",M,yes,1,FDA
+"Melatonin",M,yes,1,TGA
+"melissa + melaleuca + eucalyptus",M,yes,1,FDA
+"Meloxicam",M,yes,1,TGA
+"meloxicam",M,no,1,FDA
+"Melphalan",M,yes,1,TGA
+"Memantine",M,yes,1,TGA
+"menotropins",M,yes,1,FDA
+"menthol + lidocaine + magnesium",M,yes,1,FDA
+"meperidine",M,yes,1,FDA
+"mepivacaine",M,yes,2,FDA;TGA
+"Mepolizumab",M,yes,1,TGA
+"meprobamate",M,yes,1,FDA
+"Mercaptopurine",M,yes,1,TGA
+"Meropenem",M,yes,1,TGA
+"Mesalazine",M,yes,1,TGA
+"Mesna",M,yes,1,TGA
+"metamizole",M,yes,1,FDA
+"Metaraminol",M,yes,1,TGA
+"metaxalone",M,yes,1,FDA
+"Metformin",M,yes,1,TGA
+"methacholine",M,yes,1,FDA
+"Methadone",M,yes,1,TGA
+"methamphetamine",M,yes,1,FDA
+"methazolamide",M,yes,1,FDA
+"Methenamine hippurate",M,yes,1,TGA
+"methenamine mandelate",M,yes,1,FDA
+"methimazole",M,yes,1,FDA
+"methocarbamol",M,yes,1,FDA
+"methohexital",M,yes,1,FDA
+"methotrexate",M,yes,1,FDA
+"Methoxsalen",M,yes,1,TGA
+"methoxy polyethylene glycol-epoetin beta",M,yes,2,TGA
+"Methoxyflurane",M,yes,1,TGA
+"methscopolamine",M,yes,1,FDA
+"methsuximide",M,yes,1,FDA
+"methyl + camphor + levomenthol",M,yes,1,FDA
+"Methyl aminolevulinate",M,yes,1,TGA
+"methylcellulose",M,yes,1,FDA
+"Methyldopa",M,yes,1,TGA
+"Methylene blue",M,yes,1,TGA
+"methylergonovine",M,yes,1,FDA
+"Methylnaltrexone",M,yes,1,TGA
+"Methylphenidate",M,yes,1,TGA
+"methylphenidate hydrochloride",M,yes,2,FDA
+"Methylprednisolone",M,yes,1,TGA
+"metolazone",M,yes,2,FDA
+"Metoprolol",M,yes,1,TGA
+"metreleptin",M,yes,1,FDA
+"Metronidazole",M,yes,1,TGA
+"Metronidazole (vaginal)",M,yes,1,FDA
+"Metyrapone",M,yes,1,TGA
+"metyrosine",M,yes,1,FDA
+"mexiletine",M,yes,1,FDA
+"Mianserin",M,yes,1,TGA
+"Micafungin",M,yes,1,TGA
+"Miconazole",M,yes,1,FDA
+"Midodrine",M,yes,1,TGA
+"Midostaurin",M,yes,1,TGA
+"mifepristone + misoprostol",M,yes,1,TGA
+"Migalastat",M,yes,1,TGA
+"miglitol",M,yes,1,FDA
+"Miglustat",M,yes,1,TGA
+"miglustat",M,no,3,FDA;TGA
+"milnacipran",M,yes,2,FDA;TGA
+"Milrinone",M,yes,1,TGA
+"miltefosine",M,yes,1,FDA
+"mineral oil",M,yes,1,FDA
+"Minocycline",M,yes,1,TGA
+"minocycline",M,no,1,FDA
+"Minoxidil",M,yes,1,TGA
+"Mirabegron",M,yes,1,TGA
+"mirikizumab",M,yes,1,FDA
+"Mirtazapine",M,yes,1,TGA
+"mirvetuximab soravtansine",M,yes,2,FDA;TGA
+"mitapivat",M,yes,1,FDA
+"Mitomycin",M,yes,1,TGA
+"mitotane",M,yes,1,FDA
+"Mitozantrone",M,yes,1,TGA
+"Mivacurium",M,yes,1,TGA
+"Moclobemide",M,yes,1,TGA
+"Modafinil",M,yes,1,TGA
+"moexipril",M,yes,1,FDA
+"mogamulizumab",M,yes,2,FDA;TGA
+"molindone",M,yes,1,FDA
+"Molnupiravir",M,yes,1,TGA
+"Momelotinib",M,yes,1,TGA
+"monobasic potassium phosphate",M,yes,1,TGA
+"Montelukast",M,yes,1,TGA
+"moroctocog alfa",M,yes,1,TGA
+"Morphine",M,yes,1,TGA
+"morphine",M,no,1,FDA
+"mosunetuzumab",M,yes,1,FDA
+"motixafortide",M,yes,1,FDA
+"moxetumomab pasudotox",M,yes,1,FDA
+"Moxifloxacin",M,yes,1,TGA
+"moxifloxacin (ophthalmic)",M,yes,1,FDA
+"Moxonidine",M,yes,1,TGA
+"Mycophenolate",M,yes,1,TGA
+"nabilone",N,yes,1,FDA
+"nabumetone",N,yes,2,FDA;PMDA
+"nadofaragene firadenovec",N,yes,1,FDA
+"nadolol",N,yes,2,FDA;PMDA
+"nafamostat",N,no,2,Other;PMDA
+"Nafarelin",N,yes,1,TGA
+"nafcillin",N,yes,1,FDA
+"naftifine",N,yes,1,FDA
+"nalbuphine",N,yes,1,FDA
+"naldemedine",N,yes,1,FDA
+"nalmefene",N,yes,1,FDA
+"naloxegol",N,yes,1,FDA
+"Naltrexone",N,yes,1,TGA
+"naltrexone + bupropion",N,yes,1,TGA
+"nandrolone",N,yes,2,FDA;TGA
+"Naphazoline",N,yes,1,TGA
+"naphazoline + pheniramine",N,yes,1,FDA
+"Naproxen",N,yes,1,TGA
+"naproxen and esomeprazole",N,yes,1,FDA
+"Naratriptan",N,yes,1,TGA
+"Natalizumab",N,yes,1,TGA
+"Natamycin",N,yes,1,FDA
+"nateglinide",N,yes,1,FDA
+"naxitamab",N,yes,1,FDA
+"Nebivolol",N,yes,1,TGA
+"nefazodone",N,yes,1,FDA
+"Nelarabine",N,yes,1,TGA
+"nelfinavir",N,yes,1,FDA
+"neomycin",N,yes,1,FDA
+"neomycin + polymyxin + gramicidin",N,yes,1,FDA
+"neomycin and polymyxin b",N,yes,1,FDA
+"neomycin, polymyxin b, and dexamethasone",N,yes,1,FDA
+"neomycin, polymyxin b, and gramicidin",N,yes,1,FDA
+"neomycin, polymyxin b, and hydrocortisone",N,yes,1,FDA
+"Nepafenac",N,yes,1,TGA
+"neratinib",N,yes,2,FDA;TGA
+"netarsudil",N,yes,1,FDA
+"netarsudil and latanoprost",N,yes,1,FDA
+"netupitant + palonosetron",N,yes,1,TGA
+"Nevirapine",N,yes,1,TGA
+"nicardipine",N,yes,1,FDA
+"Nicorandil",N,yes,1,TGA
+"Nicotine",N,yes,1,TGA
+"Nicotinic acid",N,yes,1,TGA
+"Nifedipine",N,yes,1,TGA
+"nifurtimox",N,yes,1,FDA
+"Nilotinib",N,yes,1,TGA
+"nilutamide",N,yes,1,FDA
+"Nimodipine",N,yes,1,TGA
+"Nintedanib",N,yes,1,TGA
+"Niraparib",N,yes,1,TGA
+"niraparib",N,no,2,FDA;TGA
+"niraparib and abiraterone",N,yes,1,FDA
+"Nirmatrelvir and ritonavir",N,yes,1,TGA
+"nirogacestat",N,yes,1,FDA
+"Nirsevimab",N,yes,1,TGA
+"nisoldipine",N,yes,1,FDA
+"Nitazoxanide",N,yes,1,FDA
+"Nitisinone",N,yes,1,TGA
+"Nitrazepam",N,yes,1,TGA
+"nitric oxide",N,yes,2,FDA;TGA
+"Nitrofurantoin",N,yes,1,TGA
+"nitrofurazone",N,yes,1,FDA
+"nitroglycerin",N,yes,1,FDA
+"Nitrous oxide",N,yes,1,TGA
+"Nivolumab",N,yes,1,TGA
+"nivolumab + relatlimab",N,yes,2,FDA;TGA
+"Nizatidine",N,yes,1,TGA
+"non-standardized allergenic extracts",N,yes,1,FDA
+"non-standardized allergenic extracts (pollens",N,yes,1,FDA
+"nonacog alfa",N,yes,1,TGA
+"norelgestromin and ethinyl estradiol",N,yes,1,FDA
+"norethisterone + mestranol",N,yes,1,TGA
+"Norfloxacin",N,yes,1,TGA
+"norgestimate and ethinyl estradiol",N,yes,1,FDA
+"norgestrel",N,yes,1,FDA
+"norgestrel and ethinyl estradiol",N,yes,1,FDA
+"Nortriptyline",N,yes,1,TGA
+"Nusinersen",N,yes,1,TGA
+"nystatin and triamcinolone",N,yes,1,FDA
+"Obeticholic acid",O,yes,3,Other;PMDA;TGA
+"obiltoxaximab",O,yes,1,FDA
+"Obinutuzumab",O,yes,5,Other;PMDA;TGA
+"Ocrelizumab",O,yes,5,Other;PMDA;TGA
+"ocriplasmin",O,yes,3,Other;TGA
+"octinoxate + octocrylene + octisalate + avobenzone",O,yes,1,FDA
+"octisalate + titanium",O,yes,1,FDA
+"octocog alfa",O,yes,5,Other;PMDA;TGA
+"octocrylene + octisalate + homosalate + avobenzone",O,yes,1,FDA
+"Octreotide",O,yes,3,Other;PMDA;TGA
+"Ocular lubricants",O,no,1,PMDA
+"odevixibat",O,yes,3,FDA;PMDA;TGA
+"Ofatumumab",O,yes,2,PMDA;TGA
+"Ofloxacin",O,yes,3,Other;PMDA;TGA
+"Ofloxacin (eye)",O,no,2,Other;PMDA
+"Olanzapine",O,yes,1,TGA
+"olanzapine",O,no,1,TGA
+"olanzapine and fluoxetine",O,yes,1,FDA
+"olanzapine and samidorphan",O,yes,1,FDA
+"olanzapine pamoate",O,yes,1,FDA
+"Olaparib",O,yes,1,TGA
+"oliceridine",O,yes,1,FDA
+"olmesartan + amlodipine",O,yes,1,TGA
+"olmesartan + hydrochlorothiazide",O,yes,1,TGA
+"Olopatadine",O,yes,1,TGA
+"Olsalazine",O,yes,1,TGA
+"olutasidenib",O,yes,1,FDA
+"omadacycline",O,yes,1,FDA
+"Omalizumab",O,yes,1,TGA
+"omalizumab",O,no,2,FDA;TGA
+"omaveloxolone",O,yes,2,FDA;TGA
+"Omeprazole",O,yes,1,TGA
+"omeprazole + sodium",O,yes,1,FDA
+"omeprazole and sodium bicarbonate",O,yes,1,FDA
+"omeprazole, amoxicillin, and rifabutin",O,yes,1,FDA
+"omidubicel",O,yes,1,FDA
+"onabotulinumtoxinA",O,yes,1,FDA
+"onasemnogene abeparvovec",O,yes,3,FDA;TGA
+"onasemnogene abeparvovec-xioi",O,yes,1,FDA
+"Ondansetron",O,yes,1,TGA
+"ondansetron",O,no,1,TGA
+"Opicapone",O,yes,1,TGA
+"oritavancin",O,yes,1,FDA
+"Orlistat",O,yes,1,TGA
+"orlistat",O,no,2,FDA;TGA
+"Orphenadrine",O,yes,1,TGA
+"orphenadrine, aspirin, and caffeine",O,yes,1,FDA
+"Oseltamivir",O,yes,1,TGA
+"Osilodrostat",O,yes,1,TGA
+"Osimertinib",O,yes,1,TGA
+"ospemifene",O,yes,1,FDA
+"oteseconazole",O,yes,1,FDA
+"oxacillin",O,yes,1,FDA
+"Oxaliplatin",O,yes,1,TGA
+"oxandrolone",O,yes,1,FDA
+"oxaprozin",O,yes,1,FDA
+"Oxazepam",O,yes,1,TGA
+"Oxcarbazepine",O,yes,1,TGA
+"oxiconazole",O,yes,1,FDA
+"oxitriptan + 5-hydroxytryptophan + acetylcholinesterase + choline + dopamine + glutamic + glycine + histidine + levodopa + malvin + melanin + melatonin + nitric + norepinephrine + octopamine + o-methyl + phenylalanine + serotonin + taurine + tryptophan + tyrosine",O,yes,1,FDA
+"Oxybuprocaine",O,yes,1,TGA
+"Oxybutynin",O,yes,1,TGA
+"oxycodone",O,no,1,FDA
+"oxycodone + naloxone",O,yes,2,TGA
+"oxycodone and acetaminophen",O,yes,1,FDA
+"oxycodone and aspirin",O,yes,1,FDA
+"Oxymetazoline",O,yes,1,FDA
+"oxymorphone",O,yes,1,FDA
+"oxytetracycline",O,yes,1,FDA
+"Oxytocin",O,yes,1,TGA
+"Ozanimod",O,yes,1,TGA
+"ozanimod",O,no,2,FDA;TGA
+"Paclitaxel",P,yes,3,Other;PMDA;TGA
+"pacritinib",P,yes,1,FDA
+"pafolacianine",P,yes,1,FDA
+"Palbociclib",P,yes,3,Other;PMDA;TGA
+"Palifermin",P,yes,1,FDA
+"Paliperidone",P,yes,3,Other;PMDA;TGA
+"Palivizumab",P,yes,5,Other;PMDA;TGA
+"Palonosetron",P,no,5,Other;PMDA
+"Palovarotene",P,yes,2,PMDA;TGA
+"Pamidronate",P,yes,5,Other;PMDA;TGA
+"Pancreatic enzymes",P,no,4,Other;PMDA
+"pancrelipase",P,yes,7,FDA;Other;PMDA;TGA
+"Panitumumab",P,yes,1,TGA
+"panobinostat",P,yes,1,FDA
+"Pantoprazole",P,yes,1,TGA
+"Papaverine",P,yes,1,TGA
+"paracetamol + codeine",P,yes,1,TGA
+"paracetamol + codeine + doxylamine",P,yes,1,TGA
+"paracetamol + diphenhydramine",P,yes,1,TGA
+"paracetamol + metoclopramide",P,yes,1,TGA
+"Parecoxib",P,yes,1,TGA
+"paricalcitol",P,yes,2,FDA
+"Paromomycin",P,yes,1,FDA
+"Paroxetine",P,yes,1,TGA
+"Pasireotide",P,yes,1,TGA
+"Patiromer",P,yes,1,TGA
+"Patisiran",P,yes,1,TGA
+"Pazopanib",P,yes,1,TGA
+"pectin",P,yes,1,FDA
+"Pegaspargase",P,yes,1,TGA
+"Pegcetacoplan",P,yes,1,TGA
+"Pegfilgrastim",P,yes,1,TGA
+"pegfilgrastim",P,no,2,FDA;TGA
+"Peginterferon alfa-2a",P,yes,1,TGA
+"peginterferon beta-1a",P,yes,2,FDA;TGA
+"pegloticase",P,yes,1,FDA
+"pegunigalsidase alfa",P,yes,2,FDA;TGA
+"pegvaliase",P,yes,2,FDA;TGA
+"Pegvisomant",P,yes,1,TGA
+"Pembrolizumab",P,yes,1,TGA
+"Pemetrexed",P,yes,1,TGA
+"pemigatinib",P,yes,2,FDA;TGA
+"pemivibart",P,yes,1,FDA
+"penciclovir",P,yes,1,FDA
+"Penicillamine",P,yes,1,TGA
+"penicillin + penicillin",P,yes,1,FDA
+"penicillin G benzathine",P,yes,1,FDA
+"penicillin G potassium",P,yes,1,FDA
+"penicillin G procaine",P,yes,1,FDA
+"penicillin g sodium",P,yes,1,FDA
+"pentagastrin",P,yes,1,FDA
+"Pentamidine",P,yes,1,TGA
+"pentazocine + naloxone",P,yes,1,FDA
+"pentetate calcium trisodium",P,yes,1,FDA
+"pentetate zinc trisodium",P,yes,1,FDA
+"pentobarbital",P,yes,1,FDA
+"Pentosan polysulfate",P,yes,1,TGA
+"pentostatin",P,yes,1,FDA
+"Pentoxifylline",P,yes,1,FDA
+"peppermint + glycerin + activated + sodium + borneol",P,yes,1,FDA
+"peppers + garlic + garlic + capsicum + oregano + linseed + wheat",P,yes,1,FDA
+"Peramivir",P,yes,1,TGA
+"Perampanel",P,yes,1,TGA
+"perflutren",P,yes,1,TGA
+"perflutren + albumin",P,yes,1,FDA
+"pergolide",P,yes,1,FDA
+"Perhexiline",P,yes,1,TGA
+"perindopril + amlodipine",P,yes,1,TGA
+"Permethrin",P,yes,1,FDA
+"perphenazine",P,yes,1,FDA
+"Pertuzumab",P,yes,1,TGA
+"Pethidine",P,yes,1,TGA
+"petrolatum",P,yes,1,FDA
+"pexidartinib",P,yes,1,FDA
+"phenazopyridine",P,yes,1,FDA
+"phendimetrazine",P,yes,1,FDA
+"Phenelzine",P,yes,1,TGA
+"Phenobarbital",P,yes,1,TGA
+"Phenoxybenzamine",P,yes,1,TGA
+"Phenoxymethylpenicillin",P,yes,1,TGA
+"Phentermine",P,yes,1,TGA
+"phentermine + topiramate",P,yes,1,FDA
+"Phentolamine",P,yes,1,FDA
+"Phenylephrine",P,yes,1,TGA
+"phenylephrine + petrolatum + mineral",P,yes,1,FDA
+"phenylpropanolamine",P,yes,1,FDA
+"Phenytoin",P,yes,1,TGA
+"phosphorus + sulfur + arnica + graphite + lycopodium + pilocarpus + phosphoric + arsenic",P,yes,1,FDA
+"physostigmine",P,yes,1,FDA
+"phytonadione",P,yes,1,FDA
+"Pilocarpine",P,yes,1,TGA
+"pilocarpine hydrochloride",P,yes,1,FDA
+"pimavanserin",P,yes,1,FDA
+"Pimecrolimus",P,yes,1,TGA
+"pimozide",P,yes,1,FDA
+"pindolol",P,yes,1,FDA
+"Pioglitazone",P,yes,1,TGA
+"piperacillin + tazobactam",P,yes,1,FDA
+"piperazine",P,yes,1,FDA
+"Pirfenidone",P,yes,1,TGA
+"Piroxicam",P,yes,1,TGA
+"pirtobrutinib",P,yes,2,FDA;TGA
+"pitavastatin",P,yes,1,FDA
+"pitolisant",P,yes,2,FDA
+"pivmecillinam",P,yes,1,FDA
+"Pizotifen",P,yes,1,TGA
+"plazomicin",P,yes,1,FDA
+"plecanatide",P,yes,1,FDA
+"Plerixafor",P,yes,1,TGA
+"pneumococcal 15-valent conjugate vaccine (CRM197 protein)",P,yes,1,TGA
+"pneumococcal 15‑valent conjugate vaccine (crm197 protein)",P,yes,1,FDA
+"Polatuzumab vedotin",P,yes,1,TGA
+"polidocanol",P,yes,1,FDA
+"Poloxamer",P,yes,1,FDA
+"polyethylene glycol",P,yes,1,FDA
+"polythiazide + reserpine",P,yes,1,FDA
+"Pomalidomide",P,yes,1,TGA
+"Ponatinib",P,yes,1,TGA
+"ponesimod",P,yes,1,FDA
+"Poractant alfa",P,yes,1,TGA
+"porfimer",P,yes,1,FDA
+"Posaconazole",P,yes,1,TGA
+"potassium acetate",P,yes,1,TGA
+"potassium bicarbonate",P,yes,2,FDA;TGA
+"potassium chloride",P,yes,1,FDA
+"potassium citrate",P,yes,1,FDA
+"potassium gluconate",P,yes,1,FDA
+"potassium phosphate",P,yes,1,FDA
+"povidone iodine",P,yes,1,FDA
+"pozelimab",P,yes,1,FDA
+"Pralatrexate",P,yes,1,TGA
+"Pralidoxime",P,yes,1,FDA
+"pralsetinib",P,yes,1,FDA
+"Pramipexole",P,yes,1,TGA
+"pramlintide",P,yes,1,FDA
+"pramoxine + zinc",P,yes,1,FDA
+"Prasterone",P,yes,1,TGA
+"Prasugrel",P,yes,1,TGA
+"Pravastatin",P,yes,1,TGA
+"Prazosin",P,yes,1,TGA
+"prednisone",P,yes,2,FDA;TGA
+"Pregabalin",P,yes,1,TGA
+"pretomanid",P,yes,1,FDA
+"prilocaine + felypressin",P,yes,1,TGA
+"Primaquine",P,yes,1,TGA
+"Primidone",P,yes,1,TGA
+"Probenecid",P,yes,1,TGA
+"procainamide",P,yes,1,FDA
+"Procarbazine",P,yes,1,TGA
+"Prochlorperazine",P,yes,1,TGA
+"Promethazine",P,yes,1,TGA
+"propafenone",P,yes,1,FDA
+"Propantheline",P,yes,1,TGA
+"proparacaine",P,yes,1,FDA
+"Propofol",P,yes,1,TGA
+"Propranolol",P,yes,1,TGA
+"Propylthiouracil",P,yes,1,TGA
+"Protamine",P,yes,1,TGA
+"prothrombin + factor + factor + factor + factor + protein + protein",P,yes,1,FDA
+"protirelin",P,yes,1,FDA
+"protriptyline",P,yes,1,FDA
+"Proxymetacaine",P,yes,1,TGA
+"Prucalopride",P,yes,1,TGA
+"psyllium",P,yes,1,FDA
+"Pyrazinamide",P,yes,1,TGA
+"Pyridostigmine",P,yes,1,TGA
+"Pyrimethamine",P,yes,1,FDA
+"pyrithione zinc",P,yes,1,FDA
+"Qinlock",Q,no,4,Other;PMDA
+"qivigy",Q,no,1,PMDA
+"quazepam",Q,yes,1,FDA
+"Quetiapine",Q,yes,1,TGA
+"quinapril",Q,yes,2,FDA;TGA
+"Quinine",Q,yes,1,TGA
+"quizartinib",Q,yes,1,FDA
+"Rabeprazole",R,yes,4,Other;PMDA;TGA
+"Rabies immunoglobulin",R,yes,1,TGA
+"Rabies vaccine",R,yes,4,FDA;Other;PMDA
+"racepinephrine",R,yes,1,FDA
+"radioactive iodine",R,no,1,PMDA
+"radium Ra 223 dichloride",R,yes,4,FDA;Other;PMDA
+"radium ra 223 dichloride",R,no,1,FDA
+"radium-223 dichloride",R,yes,1,TGA
+"Raloxifene",R,yes,1,TGA
+"Raltegravir",R,yes,1,TGA
+"Raltitrexed",R,yes,1,TGA
+"Ramipril",R,yes,1,TGA
+"ramucirumab",R,yes,2,FDA;TGA
+"Ranibizumab",R,yes,1,TGA
+"Ranitidine",R,yes,1,TGA
+"ranolazine",R,yes,1,FDA
+"Rasagiline",R,yes,1,TGA
+"Rasburicase",R,yes,1,TGA
+"Ravulizumab",R,yes,1,TGA
+"raxibacumab",R,yes,1,FDA
+"Reboxetine",R,yes,1,TGA
+"recombinant + recombinant",R,yes,1,TGA
+"Red back spider antivenom",R,yes,1,TGA
+"regadenoson",R,yes,2,FDA
+"Regorafenib",R,yes,1,TGA
+"relacorilant",R,yes,1,FDA
+"relugolix",R,yes,1,FDA
+"relugolix + estradiol + norethisterone",R,yes,1,TGA
+"Remdesivir",R,yes,1,TGA
+"Remifentanil",R,yes,1,TGA
+"remimazolam",R,yes,1,FDA
+"repaglinide",R,yes,1,FDA
+"repotrectinib",R,yes,2,FDA;TGA
+"reserpine",R,yes,1,FDA
+"reslizumab",R,yes,1,FDA
+"resmetirom",R,yes,1,FDA
+"retapamulin",R,yes,1,FDA
+"retifanlimab",R,yes,1,FDA
+"retifanlimab-dlwr",R,yes,1,FDA
+"retinol + colecalciferol + dl-alpha-tocopherol + ascorbic + cocarboxylase + riboflavin + pyridoxine + cyanocobalamin + folic + dexpanthenol + biotin + nicotinamide",R,yes,1,TGA
+"retinol + ergocalciferol + dl-alpha-tocopherol + phytomenadione",R,yes,1,TGA
+"retinyl palmitate",R,yes,1,TGA
+"revefenacin",R,yes,2,FDA
+"rezafungin",R,yes,1,FDA
+"rh(d) immune globulin (human)",R,yes,1,FDA
+"ribavirin",R,yes,2,FDA;TGA
+"Ribociclib",R,yes,1,TGA
+"Rifabutin",R,yes,1,TGA
+"Rifampicin",R,yes,1,TGA
+"rifapentine",R,yes,1,FDA
+"Rifaximin",R,yes,1,TGA
+"rifaximin",R,no,2,FDA;TGA
+"rilonacept",R,yes,1,FDA
+"Riluzole",R,yes,1,TGA
+"rimantadine",R,yes,1,FDA
+"Rimegepant",R,yes,1,TGA
+"Riociguat",R,yes,1,TGA
+"Ripretinib",R,yes,1,TGA
+"ripretinib",R,no,2,FDA;TGA
+"Risankizumab",R,yes,1,TGA
+"Risdiplam",R,yes,1,TGA
+"Risedronate",R,yes,1,TGA
+"Risperidone",R,yes,1,TGA
+"ritlecitinib",R,yes,2,FDA;TGA
+"Rituximab",R,yes,1,TGA
+"Rivaroxaban",R,yes,1,TGA
+"rivaroxaban",R,no,2,FDA;TGA
+"Rivastigmine",R,yes,1,TGA
+"Rizatriptan",R,yes,1,TGA
+"Rocuronium",R,yes,1,TGA
+"roflumilast",R,yes,2,FDA
+"rolapitant",R,yes,1,FDA
+"Romidepsin",R,yes,1,TGA
+"Romiplostim",R,yes,1,TGA
+"Romosozumab",R,yes,1,TGA
+"ropeginterferon alfa-2b",R,yes,1,FDA
+"Ropinirole",R,yes,1,TGA
+"Ropivacaine",R,yes,1,TGA
+"rosiglitazone + metformin",R,yes,2,FDA;TGA
+"Rosuvastatin",R,yes,1,TGA
+"Rotavirus vaccine",R,yes,1,FDA
+"Rotigotine",R,yes,1,TGA
+"Roxithromycin",R,yes,1,TGA
+"Rozanolixizumab",R,yes,1,TGA
+"rucaparib",R,yes,1,FDA
+"Rufinamide",R,yes,1,TGA
+"rurioctocog alfa",R,yes,1,TGA
+"Ruxolitinib",R,yes,1,TGA
+"Sacituzumab govitecan",S,yes,2,PMDA;TGA
+"Sacubitril with valsartan",S,no,2,Other;PMDA
+"Safinamide",S,yes,2,PMDA;TGA
+"Salbutamol",S,yes,2,PMDA;TGA
+"Salbutamol (obstetrics)",S,no,1,PMDA
+"Salicylic acid",S,no,1,PMDA
+"Saline laxatives",S,no,2,Other;PMDA
+"Salmeterol",S,no,3,Other;PMDA
+"Sapropterin",S,yes,4,Other;PMDA;TGA
+"Satralizumab",S,yes,4,Other;PMDA;TGA
+"Saxagliptin",S,yes,5,Other;PMDA
+"saxagliptin + dapagliflozin",S,yes,1,TGA
+"saxagliptin + metformin",S,yes,1,TGA
+"Saxagliptin with dapagliflozin",S,no,4,Other
+"Sea snake antivenom",S,yes,1,TGA
+"Sebelipase alfa",S,yes,1,TGA
+"Secukinumab",S,yes,1,TGA
+"Selegiline",S,yes,1,TGA
+"selenium + chaste + turnera + phosphoric + american + scutellaria + saw + dieffenbachia + yohimbine",S,yes,1,FDA
+"Selexipag",S,yes,1,TGA
+"Selinexor",S,yes,1,TGA
+"selinexor",S,no,2,FDA;TGA
+"Selpercatinib",S,yes,1,TGA
+"Selumetinib",S,yes,1,TGA
+"Semaglutide",S,yes,1,TGA
+"semaglutide",S,no,2,FDA;TGA
+"sennosides (sennosides A and B)",S,yes,1,FDA
+"serdexmethylphenidate + dexmethylphenidate",S,yes,1,FDA
+"Sertraline",S,yes,1,TGA
+"sertraline",S,no,1,TGA
+"sertraline hydrochloride",S,yes,1,FDA
+"Sevelamer",S,yes,1,TGA
+"Sevoflurane",S,yes,1,TGA
+"Silodosin",S,yes,1,TGA
+"Siltuximab",S,yes,1,TGA
+"silver sulfadiazine",S,no,1,TGA
+"Silver sulfadiazine",S,yes,1,TGA
+"simvastatin",S,yes,2,FDA;TGA
+"Siponimod",S,yes,1,TGA
+"Sirolimus",S,yes,1,TGA
+"sitagliptin + metformin",S,yes,1,TGA
+"sodium + magnesium + citric",S,yes,1,TGA
+"sodium + sodium + sodium + sodium + sodium + sodium + sodium + sodium + sodium",S,yes,1,FDA
+"Sodium bicarbonate (ear)",S,yes,1,FDA
+"sodium cromoglycate",S,yes,1,TGA
+"Sodium fusidate",S,yes,1,TGA
+"Sodium nitroprusside",S,yes,1,TGA
+"sodium nitroprusside",S,no,2,FDA;TGA
+"sodium oxybate",S,yes,1,FDA
+"Sodium phenylbutyrate",S,yes,1,TGA
+"Sodium tetradecyl sulfate",S,yes,1,TGA
+"sodium valproate",S,yes,1,TGA
+"sofosbuvir + velpatasvir + voxilaprevir",S,yes,2,FDA;TGA
+"Solifenacin",S,yes,1,TGA
+"Somatrogon",S,yes,1,TGA
+"Somatropin",S,yes,1,TGA
+"somatropin",S,no,1,FDA
+"Sonidegib",S,yes,1,TGA
+"Sorafenib",S,yes,1,TGA
+"Sotalol",S,yes,1,TGA
+"sotatercept",S,yes,1,TGA
+"sotatercept-csrk",S,yes,2,FDA
+"Sotorasib",S,yes,1,TGA
+"Spesolimab",S,yes,1,FDA
+"Spironolactone",S,yes,1,TGA
+"sterile water for irrigation",S,yes,1,FDA
+"Stiripentol",S,yes,1,TGA
+"Stonefish antivenom",S,yes,1,TGA
+"Streptomycin",S,yes,1,FDA
+"strychnos + histamine + potassium + goldenseal + atropa + teucrium + ephedra",S,yes,1,FDA
+"succinylcholine chloride",S,yes,1,FDA
+"Sucralfate",S,yes,1,FDA
+"Sucroferric oxyhydroxide",S,yes,1,TGA
+"Sufentanil",S,yes,1,FDA
+"Sugammadex",S,yes,1,TGA
+"Sulfasalazine",S,yes,1,TGA
+"sulfathiazole + malachite + nitrofurantoin + nitrofurazone + quinacrine",S,yes,1,FDA
+"Sulthiame",S,yes,1,TGA
+"Sumatriptan",S,yes,1,TGA
+"Sunitinib",S,yes,1,TGA
+"Suvorexant",S,yes,1,TGA
+"Suxamethonium",S,yes,1,TGA
+"Tacrolimus",T,yes,1,TGA
+"Tafamidis",T,yes,1,TGA
+"Tafenoquine",T,yes,4,Other;PMDA;TGA
+"tafluprost",T,yes,6,FDA;Other;PMDA;TGA
+"tagraxofusp",T,yes,1,FDA
+"Taipan antivenom",T,yes,1,TGA
+"talampicillin",T,no,1,PMDA
+"Talazoparib",T,yes,1,TGA
+"Taliglucerase",T,yes,1,TGA
+"talimogene laherparepvec",T,yes,1,FDA
+"talquetamab",T,yes,2,FDA;TGA
+"Tamoxifen",T,yes,1,TGA
+"Tamsulosin",T,yes,1,TGA
+"Tapentadol",T,yes,1,TGA
+"tapinarof",T,yes,1,FDA
+"taraxacum + lycopodium + sodium + arctostaphylos + syzygium + phosphoric + opuntia",T,yes,1,FDA
+"tarlatamab",T,yes,2,FDA;TGA
+"tasimelteon",T,yes,1,FDA
+"tavaborole",T,yes,1,FDA
+"tazarotene",T,yes,1,FDA
+"Tebentafusp",T,yes,1,TGA
+"technetium tc 99m mebrofenin",T,yes,1,FDA
+"teclistamab",T,yes,2,FDA;TGA
+"tecovirimat",T,yes,1,FDA
+"tedizolid",T,yes,1,FDA
+"Teduglutide",T,yes,1,TGA
+"tegaserod",T,yes,2,FDA
+"Teicoplanin",T,yes,1,TGA
+"telavancin",T,yes,1,FDA
+"telithromycin",T,yes,1,FDA
+"Telmisartan",T,yes,1,TGA
+"Telotristat",T,yes,1,TGA
+"telotristat ethyl",T,yes,2,FDA;TGA
+"Temazepam",T,yes,1,TGA
+"Temozolomide",T,yes,1,TGA
+"temsirolimus",T,yes,1,FDA
+"tenapanor",T,yes,1,FDA
+"Tenecteplase",T,yes,1,TGA
+"Tenofovir alafenamide with emtricitabine, elvitegravir and cobicistat",T,yes,1,TGA
+"teplizumab",T,yes,2,FDA;TGA
+"Tepotinib",T,yes,1,TGA
+"teprotumumab",T,yes,2,FDA;TGA
+"terazosin",T,yes,1,FDA
+"Terbinafine",T,yes,1,TGA
+"Terbutaline",T,yes,1,TGA
+"terconazole",T,yes,1,FDA
+"Teriflunomide",T,yes,1,TGA
+"Teriparatide",T,yes,1,TGA
+"Terlipressin",T,yes,1,TGA
+"tesamorelin",T,yes,1,FDA
+"tetanus + diphtheria + pertussis + filamentous + pertactin + fimbriae",T,yes,1,FDA
+"Tetanus immunoglobulin",T,yes,1,TGA
+"Tetrabenazine",T,yes,1,TGA
+"tetrabenazine",T,no,1,FDA
+"Tetracosactide",T,yes,1,FDA
+"tetrahydrozoline + polyethylene + zinc",T,yes,1,FDA
+"tezepelumab",T,yes,2,FDA;TGA
+"Thalidomide",T,yes,1,TGA
+"thiamine + riboflavin + niacinamide + pantothenic + pyridoxine + methylcobalamin + ascorbic + cholecalciferol + alpha-tocopherol + folic",T,yes,1,FDA
+"thiamine + riboflavin + nicotinamide + dexpanthenol + pyridoxine + cyanocobalamin",T,yes,4,TGA
+"Thiopental",T,yes,1,TGA
+"thioridazine",T,yes,1,FDA
+"Thiotepa",T,yes,1,TGA
+"thiothixene",T,yes,1,FDA
+"thrombin",T,yes,1,FDA
+"thyrotropin alfa",T,yes,1,TGA
+"Tiagabine",T,yes,1,TGA
+"Tibolone",T,yes,1,TGA
+"Ticagrelor",T,yes,1,TGA
+"ticarcillin + clavulanic",T,yes,1,FDA
+"tick-borne encephalitis vaccine",T,yes,1,FDA
+"ticlopidine",T,yes,1,FDA
+"Tigecycline",T,yes,1,TGA
+"Tiger snake antivenom",T,yes,1,TGA
+"Tildrakizumab",T,yes,1,TGA
+"timothy grass pollen allergen extract",T,yes,1,FDA
+"tinidazole",T,yes,1,FDA
+"tioconazole",T,yes,1,FDA
+"Tioguanine",T,yes,1,TGA
+"tiopronin",T,yes,1,FDA
+"Tiotropium",T,yes,1,TGA
+"tiotropium + olodaterol",T,yes,2,FDA;TGA
+"tipranavir",T,yes,1,FDA
+"Tirofiban",T,yes,1,TGA
+"Tirzepatide",T,yes,1,TGA
+"tirzepatide",T,no,1,FDA
+"tisagenlecleucel",T,yes,2,FDA;TGA
+"Tislelizumab",T,yes,1,TGA
+"tisotumab vedotin",T,yes,1,FDA
+"tivozanib",T,yes,1,FDA
+"tizanidine",T,yes,1,FDA
+"Tobramycin",T,yes,1,TGA
+"Tocilizumab",T,yes,1,TGA
+"tocopherol + glutathione + alpha-arbutin + ascorbic",T,yes,1,FDA
+"Tofacitinib",T,yes,1,TGA
+"tofacitinib",T,no,2,FDA;TGA
+"tofersen",T,yes,2,FDA;TGA
+"tolazamide",T,yes,1,FDA
+"tolazoline",T,yes,1,FDA
+"tolcapone",T,yes,1,FDA
+"tolmetin",T,yes,1,FDA
+"Tolnaftate",T,yes,1,FDA
+"Tolterodine",T,yes,1,TGA
+"Tolvaptan",T,yes,1,TGA
+"Topiramate",T,yes,1,TGA
+"topiramate",T,no,1,FDA
+"Topotecan",T,yes,1,TGA
+"Toremifene",T,yes,1,FDA
+"torsemide",T,yes,1,FDA
+"Trabectedin",T,yes,1,TGA
+"trabectedin",T,no,2,FDA;TGA
+"tralokinumab",T,yes,1,FDA
+"tramadol + paracetamol",T,yes,1,TGA
+"Tramazoline",T,yes,1,TGA
+"Trametinib",T,yes,1,TGA
+"trametinib",T,no,1,TGA
+"Trandolapril",T,yes,1,TGA
+"Tranexamic acid",T,yes,1,TGA
+"Tranylcypromine",T,yes,1,TGA
+"Trastuzumab",T,yes,1,TGA
+"Trastuzumab deruxtecan",T,yes,1,TGA
+"Trastuzumab emtansine",T,yes,1,TGA
+"travoprost + timolol",T,yes,1,TGA
+"trazodone",T,yes,1,FDA
+"Treosulfan",T,yes,1,TGA
+"treprostinil",T,yes,1,FDA
+"Triamcinolone",T,yes,1,TGA
+"triamcinolone + neomycin + gramicidin + nystatin",T,yes,1,TGA
+"triamcinolone + nystatin + neomycin + gramicidin",T,yes,3,TGA
+"Triamcinolone, neomycin, nystatin and gramicidin",T,yes,1,TGA
+"triamterene + hydrochlorothiazide",T,yes,1,FDA
+"triazolam",T,yes,1,FDA
+"Trientine",T,yes,1,TGA
+"Trifarotene",T,yes,1,TGA
+"Trifluoperazine",T,yes,1,FDA
+"Trihexyphenidyl",T,yes,1,TGA
+"trilaciclib",T,yes,1,FDA
+"trilostane",T,yes,1,FDA
+"trimethobenzamide",T,yes,1,FDA
+"Trimethoprim",T,yes,1,TGA
+"trimipramine",T,yes,1,FDA
+"triticum + chelidonium + taraxacum + glutathione + pork + thyroid + lycopodium + strychnos + phosphoric + corticotropin + salicylic + cortisone + eugenol + stearyl + xylitol + estrone + benzoic + chlorine + potassium + sorbitol + resorcinol + benzyl + lactic + isopropyl + boric + acetic + phenylbutazone + petrolatum + lead",T,yes,1,FDA
+"trofinetide",T,yes,1,FDA
+"trolamine salicylate",T,yes,1,FDA
+"Tropicamide",T,yes,1,TGA
+"Tropisetron",T,yes,1,TGA
+"trypan blue",T,yes,1,FDA
+"tubocurarine",T,yes,1,FDA
+"tucatinib",T,yes,2,FDA;TGA
+"ubenimex",U,no,2,Other;PMDA
+"ubiquinone",U,no,2,Other;PMDA
+"ublituximab",U,yes,2,FDA;TGA
+"ubrogepant",U,yes,1,FDA
+"udenafil",U,no,1,Other
+"ulinastatin",U,no,2,Other;PMDA
+"Ulipristal",U,yes,3,Other;TGA
+"Umeclidinium",U,yes,2,Other;PMDA
+"umeclidinium + vilanterol",U,yes,1,TGA
+"Umeclidinium with vilanterol",U,no,3,Other;PMDA
+"undecylenic acid",U,yes,1,FDA
+"unoprostone",U,no,2,Other;PMDA
+"Upadacitinib",U,yes,1,TGA
+"urea",U,yes,2,FDA;TGA
+"uridine triacetate",U,yes,2,FDA
+"Urokinase",U,yes,1,FDA
+"Ursodeoxycholic acid",U,yes,1,TGA
+"Ustekinumab",U,yes,1,TGA
+"ustekinumab",U,no,2,FDA;TGA
+"vaccinia immune globulin",V,yes,1,FDA
+"vaccinia vaccine",V,yes,2,FDA;PMDA
+"vaccinia virus (modified vaccinia Ankara",V,yes,1,FDA
+"Valaciclovir",V,yes,5,Other;PMDA;TGA
+"valacyclovir",V,yes,5,FDA;Other;PMDA
+"valbenazine",V,yes,5,FDA;Other;PMDA
+"valethamate",V,no,2,Other;PMDA
+"Valganciclovir",V,yes,6,Other;PMDA;TGA
+"valoctocogene roxaparvovec",V,no,1,PMDA
+"Valproate",V,no,5,Other;PMDA
+"valproic acid and derivatives",V,no,3,Other;PMDA
+"valrubicin",V,yes,1,FDA
+"vamorolone",V,yes,1,FDA
+"Vancomycin",V,yes,1,TGA
+"vancomycin (oral)",V,yes,1,FDA
+"Vandetanib",V,yes,1,TGA
+"vardenafil",V,yes,1,FDA
+"Varenicline",V,yes,1,TGA
+"varicella-zoster immune globulin",V,yes,1,FDA
+"vasopressin",V,yes,1,FDA
+"Vecuronium",V,yes,1,TGA
+"Vedolizumab",V,yes,1,TGA
+"Velaglucerase",V,yes,1,TGA
+"velmanase alfa",V,yes,2,FDA;TGA
+"Vemurafenib",V,yes,1,TGA
+"vemurafenib",V,no,2,FDA;TGA
+"Venetoclax",V,yes,1,TGA
+"Venlafaxine",V,yes,1,TGA
+"Verapamil",V,yes,1,TGA
+"Vericiguat",V,yes,1,TGA
+"verteporfin",V,yes,1,FDA
+"vestronidase alfa",V,yes,1,FDA
+"vibegron",V,yes,1,FDA
+"vibrio cholerae CVD 103-HgR",V,yes,1,FDA
+"vidarabine",V,yes,1,FDA
+"Vigabatrin",V,yes,1,TGA
+"vilazodone",V,yes,1,FDA
+"vildagliptin + metformin",V,yes,1,TGA
+"viloxazine",V,yes,1,FDA
+"viloxazine hydrochloride",V,yes,1,FDA
+"viltolarsen",V,yes,1,FDA
+"Vinblastine",V,yes,1,TGA
+"Vincristine",V,yes,1,TGA
+"Vinorelbine",V,yes,1,TGA
+"Vismodegib",V,yes,1,TGA
+"vitamin + vitamin + vitamin + vitamin + thiamine + riboflavin + niacin + pyridoxine + folic + vitamin + sodium",V,yes,1,FDA
+"voclosporin",V,yes,1,FDA
+"von + coagulation",V,yes,1,FDA
+"von willebrand factor",V,yes,2,FDA;TGA
+"vonoprazan + amoxicillin + clarithromycin",V,yes,2,FDA
+"vonoprazan, amoxicillin, and clarithromycin",V,yes,1,FDA
+"vorapaxar",V,yes,2,FDA
+"vorasidenib",V,yes,2,FDA;TGA
+"voretigene neparvovec",V,yes,2,FDA;TGA
+"Voriconazole",V,yes,1,TGA
+"Vorinostat",V,yes,1,TGA
+"vorinostat",V,no,2,FDA;TGA
+"Vortioxetine",V,yes,1,TGA
+"Vosoritide",V,yes,1,TGA
+"voxelotor",V,yes,1,FDA
+"Vutrisiran",V,yes,1,TGA
+"Wakix",W,no,2,Other;PMDA
+"Warfarin",W,yes,4,Other;PMDA;TGA
+"water for injection",W,yes,4,Other;PMDA;TGA
+"water for irrigation",W,no,3,Other;PMDA
+"water, sterile",W,no,1,Other
+"Wegovy",W,no,3,Other;PMDA
+"Welchol",W,no,1,Other
+"Welireg",W,no,3,Other;PMDA
+"xalatan",X,no,5,Other;PMDA
+"Xalkori",X,no,5,Other;PMDA
+"Xanax",X,no,5,Other;PMDA
+"xanomeline + trospium",X,yes,1,FDA
+"Xarelto",X,no,5,Other;PMDA
+"Xeljanz",X,no,4,Other;PMDA
+"Xeloda",X,no,4,Other;PMDA
+"Xelpros",X,no,1,Other
+"xembify",X,no,1,Other
+"Xenazine",X,no,4,Other;PMDA
+"xenon",X,yes,1,FDA
+"xenon xe 129",X,yes,1,FDA
+"Xylometazoline",X,yes,1,FDA
+"Yasmin",Y,no,3,Other
+"Yaz",Y,no,4,Other;PMDA
+"yohimbine",Y,yes,1,FDA
+"zafirlukast",Z,yes,3,FDA;Other;PMDA
+"zaleplon",Z,yes,1,FDA
+"zaltoprofen",Z,no,3,Other;PMDA
+"Zanamivir",Z,yes,5,Other;PMDA;TGA
+"Zanubrutinib",Z,yes,5,Other;PMDA;TGA
+"zarontin",Z,no,2,Other;PMDA
+"zarxio",Z,no,1,PMDA
+"zavegepant",Z,yes,1,FDA
+"zavesca",Z,no,2,Other;PMDA
+"zebeta",Z,no,2,Other;PMDA
+"ziconotide",Z,yes,1,FDA
+"zidovudine and lamivudine",Z,yes,2,FDA;TGA
+"zidovudine, abacavir, and lamivudine",Z,yes,1,FDA
+"zileuton",Z,yes,1,FDA
+"Zilucoplan",Z,yes,1,TGA
+"zinc gluconate",Z,yes,1,FDA
+"zinc oxide",Z,yes,3,FDA
+"Ziprasidone",Z,yes,1,TGA
+"ziv-aflibercept",Z,yes,1,FDA
+"zolbetuximab",Z,yes,2,FDA;TGA
+"Zoledronic acid",Z,yes,1,TGA
+"Zolmitriptan",Z,yes,1,TGA
+"zolmitriptan",Z,no,2,FDA;TGA
+"Zolpidem",Z,yes,1,TGA
+"Zonisamide",Z,yes,1,TGA
+"Zopiclone",Z,yes,1,TGA
+"Zoster vaccine",Z,yes,1,FDA
+"Zuclopenthixol",Z,yes,1,TGA
+"zuranolone",Z,yes,1,FDA
